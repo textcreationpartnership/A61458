@@ -1,0 +1,1038 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The church of Rome not sufficiently defended from her apostacy, heresie, and schisme as appears by an answer to certain quæries, printed in a book entituled Fiat Lux, and sent transcribed (as 'tis suppos'd) from thence by a Romanist to a priest of the Church of England. Whereunto are annexed the Romanist's reply to the Protestant's Answer, and the Protestant's rejoynder to that reply. By P.S. D.D.</title>
+            <author>Samways, Peter, 1615-1693.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 129 KB of XML-encoded text transcribed from 58 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61458</idno>
+            <idno type="STC">Wing S545B</idno>
+            <idno type="STC">ESTC R222361</idno>
+            <idno type="EEBO-CITATION">99833542</idno>
+            <idno type="PROQUEST">99833542</idno>
+            <idno type="VID">38019</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61458)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38019)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2216:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The church of Rome not sufficiently defended from her apostacy, heresie, and schisme as appears by an answer to certain quæries, printed in a book entituled Fiat Lux, and sent transcribed (as 'tis suppos'd) from thence by a Romanist to a priest of the Church of England. Whereunto are annexed the Romanist's reply to the Protestant's Answer, and the Protestant's rejoynder to that reply. By P.S. D.D.</title>
+                  <author>Samways, Peter, 1615-1693.</author>
+               </titleStmt>
+               <extent>[18], 9-49, [2], 50-96 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by A. Broade, and are to be sold by R. Lambert at the Minster-Gates,</publisher>
+                  <pubPlace>Yorke :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>P.S. = Peter Samways.</note>
+                  <note>With imprimatur statement on A1v dated: Aprill, 14. 1663.</note>
+                  <note>With an errata leaf inserted between quires A and B; with an additional leaf in quire D.</note>
+                  <note>With marginal notes.</note>
+                  <note>In response to John Vincent Canes.  Fiat lux. Or, A general conduct to a right understanding in the great combustions and broils about religion here in England.</note>
+                  <note>Reproduction of the original in the Dr. Williams' Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>J. V. C. --  (John Vincent Canes), d. 1672. --  Fiat lux. Or, A general conduct to a right understanding in the great combustions and broils about religion here in England --  Early works to 1800.</term>
+               <term>Anti-Catholicism --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Taryn Hakala</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="imprimatur">
+            <pb facs="tcp:38019:1"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:38019:1"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:38019:2"/>
+            <p>Imprimatur.</p>
+            <closer>
+               <signed>
+                  <hi>Geo: Pariſh,</hi> S. T. P. Re<g ref="char:EOLhyphen"/>verend'. in Chriſto Patri Archiepiſc'. <hi>Ebor'.</hi> a ſac'. Domeſt'.</signed>
+               <dateline>
+                  <date>April, 14. 1663.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:38019:2"/>
+            <p>THE Church of ROME Not ſufficiently defen<g ref="char:EOLhyphen"/>ded from her <hi>Apostacy, Hereſie,</hi> and <hi>Schiſme: As appears</hi> By an <hi>Anſwer</hi> to certain <hi>Quae<g ref="char:EOLhyphen"/>ries,</hi> Printed in a Book entitu<g ref="char:EOLhyphen"/>led <hi>Fiat Lux,</hi> and ſent tranſcri<g ref="char:EOLhyphen"/>bed (as 'tis ſuppos'd) from thence by a Romaniſt to a Prieſt of the Church of <hi>England.</hi>
+            </p>
+            <p>Whereunto are annexed The Romaniſt's <hi>Reply</hi> to the Pro<g ref="char:EOLhyphen"/>teſtant's <hi>Anſwer,</hi> and the Pro<g ref="char:EOLhyphen"/>teſtant's <hi>Rejoynder</hi> to that <hi>Reply.</hi>
+            </p>
+            <p>By <hi>P.S. D.D.</hi>
+            </p>
+            <p>Yorke, <hi>Printed by</hi> A. Broade, <hi>and are to be ſold by</hi> R. Lambert <hi>at the Minster-Gates,</hi> 1663.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:38019:3"/>
+            <pb facs="tcp:38019:3"/>
+            <head>To the Right Honou<g ref="char:EOLhyphen"/>rable, and Right Reve<g ref="char:EOLhyphen"/>rend Father in God, <hi>JOHN,</hi> Ld. Biſhop &amp; Count Palatine of <hi>Dureſme.</hi>
+            </head>
+            <opener>
+               <salute>Right Reverend, and my much Honoured Lord,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hen I waited on your Lordſhip, the laſt Summer, at the time of your <hi>publique-Ordination,</hi> I communicated to your Lordſhip the Papers, that now are printed in this ſmall Booke.</p>
+            <p>Your Lordſhip was pleaſed to give
+<pb facs="tcp:38019:4"/>me incouragement to publiſh them, and withall to adviſe me to forbear any future <hi>reciprocation</hi> of this Saw, which ſome count their delight to <hi>draw,</hi> and <hi>retort.</hi> I ſhould not have preſumed to communicate theſe <hi>endeavours</hi> of mine in a <hi>con<g ref="char:EOLhyphen"/>teſt</hi> ſo long managed by our learn<g ref="char:EOLhyphen"/>ed <hi>Prelates,</hi> and other worthy <hi>Men</hi> of our <hi>Engliſh Church,</hi> but that I perceive, that our <hi>ordinary</hi> ſort of people have not the opportunity to <hi>procure,</hi> nor leiſure to <hi>peruſe</hi> Books of larger Volumne; and Re<g ref="char:EOLhyphen"/>verend Biſhop <hi>Jewel's</hi> Apology (that might inſtruct them in the ſeverall <hi>Queſtions</hi> in debate between the <hi>true,</hi> and <hi>pretended</hi> Catholiques, that is, betwixt the <hi>Proteſtants</hi> and the <hi>Romaniſts,</hi>) is rarely <hi>peruſed</hi> by the people of this Age, though it may poſſibly be found in ſome Churches.</p>
+            <p>
+               <pb facs="tcp:38019:4"/>
+What the <hi>Perſon</hi> is that ſent me the <hi>Quaeries</hi> (extant I perceive in the booke called <hi>Fiat Lux</hi>) and who made the <hi>Reply</hi> to my <hi>Anſwer,</hi> I know not; but I perceived, that the people might eaſily be <hi>amazed by them,</hi> and diſpoſed to judge <hi>the Church of</hi> Rome <hi>not at all chang<g ref="char:EOLhyphen"/>ed from her primitive integrity,</hi> and thereupon the better inclined <hi>to deſert our Communion.</hi>
+            </p>
+            <p>In the Pariſh where I live, I perceive the Papiſts (and there are ſeverall Families there of the Ro<g ref="char:EOLhyphen"/>miſh-perſwaſion) generally believe, that <hi>we have ſet up a new Religi<g ref="char:EOLhyphen"/>on,</hi> that <hi>we have no Prieſts a<g ref="char:EOLhyphen"/>mongſt us,</hi> and conſequently <hi>no Sa<g ref="char:EOLhyphen"/>crament except</hi> (perhaps what their women in ſome caſes by allowance do adminiſter) <hi>Baptiſme.</hi>
+            </p>
+            <p>
+               <pb facs="tcp:38019:5"/>
+What effect ſuch <hi>opinions</hi> do pro<g ref="char:EOLhyphen"/>duce, is viſible enough, in the ſpread<g ref="char:EOLhyphen"/>ing of this <hi>error</hi> in this place, with<g ref="char:EOLhyphen"/>in a few years by-paſt.</p>
+            <p>That we ſhould do our beſt endea<g ref="char:EOLhyphen"/>vours to acquaint the people <hi>that</hi> Rome <hi>is not ſuch as ſometimes ſhe was; that</hi> England <hi>is not a Church bearing date ſince</hi> Henry <hi>the eight's Reigne; that our</hi> Divines <hi>are</hi> Prieſts duely ordained, <hi>that we have no</hi> defects <hi>in our</hi> Diſcipline, <hi>deſtructive to the</hi> being <hi>of</hi> a ſound Church; <hi>and that</hi> ſalvation, <hi>may be obtained better amongſt</hi> us, <hi>than in any</hi> Church <hi>in the world,</hi> is the common duty of all intruſted with the charge of ſouls.</p>
+            <p>What I am able to contribute to ſo good a <hi>work,</hi> I adventure to ſhew by this enſuing <hi>Diſcourſe;</hi> and how
+<pb facs="tcp:38019:5"/>
+               <hi>Zealous</hi> both myſelfe, and all others, ought to be to have it done, the dan<g ref="char:EOLhyphen"/>ger of ſuch, as are miſled from our <hi>Aſſemblies,</hi> doth abundantly demon<g ref="char:EOLhyphen"/>ſtrate.</p>
+            <p>That by Gods bleſſing this <hi>Skir<g ref="char:EOLhyphen"/>miſh,</hi> may <hi>confirme</hi> ſome that ſtand, <hi>eſtabliſh</hi> ſome that ſtagger, and <hi>raiſe</hi> up ſome, that are fallen amongſt us; I hope the rather, for that I have been encouraged thereunto by your Lordſhip; who, being ſo well skilled in the excellent ſtructure of our ſettle<g ref="char:EOLhyphen"/>ment, [which, were our Diſcipline advanced to the purity that our Church in the <hi>commination</hi> profeſ<g ref="char:EOLhyphen"/>ſeth, is to be wiſhed for, would fall but little ſhort of <hi>the Primitive-conſtitution</hi>] hath alway been ready to maintain, <hi>that the pretenſions of</hi> Rome (ſo far as ſhe condemns, and diſſents from us in the ſubſtantiall
+<pb facs="tcp:38019:6"/>parts of Religion,) <hi>are deſtitute of a ſolid foundation.</hi>
+            </p>
+            <p>Your Lordſhips <hi>ability to defend</hi> and <hi>reſolution to ſuffer</hi> for the <hi>Cauſe</hi> of our Church (both at home, and abroad) are ſo well known, that to ſpeak anything of either of them is ſuperfluous.</p>
+            <p>I crave your Lordſhips <hi>candid</hi> acceptance of this ſmall <hi>work;</hi> and withall I humbly returne my <hi>thanks,</hi> for your Lordſhips <hi>patience</hi> in per<g ref="char:EOLhyphen"/>uſing theſe Papers, and <hi>readineſs</hi> to impart your Lordſhips <hi>direction</hi> and <hi>advice</hi> in ſeverall particulars, and with my prayers that your Lord<g ref="char:EOLhyphen"/>ſhip may enjoy that meaſure of <hi>health</hi> and length of <hi>life</hi> in your <hi>Dioceſſe</hi> that may <hi>enable</hi> you to <hi>ſettle</hi> it ac<g ref="char:EOLhyphen"/>cording to the <hi>pious,</hi> and <hi>grave</hi> de<g ref="char:EOLhyphen"/>ſigne of your <hi>Articles of Viſitation,</hi>
+               <pb facs="tcp:38019:6"/>and compleat your <hi>Reparations</hi> of thoſe <hi>Ruines,</hi> that <hi>ſacrilegious hands</hi> have made upon the <hi>Fabriques</hi> belonging to your <hi>Biſhoprick</hi> (in ac<g ref="char:EOLhyphen"/>compliſhing which good <hi>Enterprize</hi> I have been an <hi>eye-witneſſe,</hi> that your Lordſhip forgetting your <hi>private concernes,</hi> ſpareth neither for <hi>coſt</hi> nor <hi>paines</hi>) I reſt</p>
+            <closer>
+               <salute>My Lord,</salute>
+               <signed>Your Lorſhips humble and much obliged ſervant Peter Samwaies.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:38019:7"/>
+            <pb facs="tcp:38019:7"/>
+            <head>
+               <hi>To my worthy friend</hi> Walter Lyſter <hi>Eſquire.</hi>
+            </head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>THough <hi>you</hi> live among ſome of the <hi>Roman</hi> Religi<g ref="char:EOLhyphen"/>on, yet you are better ſa<g ref="char:EOLhyphen"/>tisfied with the <hi>Conſtitution</hi> of that Church wherein <hi>you</hi> receiv'd <hi>your Baptiſme,</hi> than by the <hi>Quaeries</hi> that <hi>you</hi> gave me, to be ſhaken from the <hi>truth</hi> of that <hi>Catholick</hi> Chriſti<g ref="char:EOLhyphen"/>anity, which we profeſſe, ſince the <hi>Reformation</hi> in <hi>England.</hi>
+            </p>
+            <p>When I returned to <hi>you</hi> the ſhort <hi>Anſwer</hi> which <hi>you</hi> ſee now made <hi>publick,</hi> it was received (<hi>you</hi> know) with as much <hi>ſcorne</hi> and <hi>diſparagement,</hi> as thoſe of the <hi>new</hi> Religion (for ſuch I call the
+<pb facs="tcp:38019:8"/>preſent <hi>Profeſſion</hi> of <hi>Rome</hi>) uſe to entertain the <hi>Reaſons,</hi> that either they <hi>underſtand</hi> not, or <hi>know</hi> not how to <hi>anſwer.</hi>
+            </p>
+            <p>But yet that ſomewhat might be <hi>retorted,</hi> I know not what <hi>Cham<g ref="char:EOLhyphen"/>pion</hi> amongſt them (let him <hi>anſwer</hi> it to his <hi>Superiours,</hi> if he did it without their <hi>leave</hi>) ſent (as <hi>you</hi> can witneſſe) a <hi>Reply</hi> cloſing it with an <hi>Appeal</hi> to an <hi>indifferent Judge.</hi>
+            </p>
+            <p>I have <hi>joyned iſſue</hi> with him up<g ref="char:EOLhyphen"/>on his own <hi>Termes;</hi> and hope that (whatſoever they may judge, that are <hi>engaged</hi> never to <hi>approve</hi> any thing, that ſhall convince them to be <hi>miſtaken,</hi> yet) an <hi>in<g ref="char:EOLhyphen"/>different Reader</hi> will acknowledge (upon his <hi>peruſall</hi> of our ſeverall <hi>pleas</hi>) that <hi>whatſoever</hi> Rome <hi>was in her primitive</hi> purity <hi>and</hi> ſplendor <hi>yet when we were forced to withdraw our ſelves from her</hi> Communion,
+<pb facs="tcp:38019:8"/>
+               <hi>ſhe had</hi> forfeited <hi>all</hi> juſt <hi>claim to her firſt</hi> excellency, <hi>and cannot be</hi> ex<g ref="char:EOLhyphen"/>cuſed <hi>from</hi> Apoſtacy, Hereſy, <hi>and</hi> Schiſme.</p>
+            <p>If any thing that hath been written (upon the <hi>occaſion</hi> of that <hi>Challenge</hi> which <hi>you</hi> brought me) may <hi>contribute</hi> ſomething to <hi>your further confirmation in the truth eſpouſed already by you,</hi> I ſhall not think my <hi>labour</hi> loſt: but if it ſhall <hi>conduce</hi> alſo to the better <hi>eſtabliſh<g ref="char:EOLhyphen"/>ment</hi> of others, I have reaſon, as in the firſt place <hi>to glorify God for making me ſerviceable in the defence of his truth;</hi> ſo in the next, <hi>to give you thanks for engaging me in this Conteſt,</hi> who being (perhaps too much) inclined to peace, had not marched into this <hi>field,</hi> had I not (as you can witneſſe,) firſt been <hi>challenged.</hi> Wiſhing <hi>you</hi> all that <hi>felicity,</hi> that none of the Sonns of the <hi>Church</hi> of <hi>England</hi> ſhall fail to
+<pb facs="tcp:38019:9"/>attain, <hi>that Conſtantly frame their lives according to her</hi> ſound <hi>and</hi> Orthodox <hi>doctrine</hi> (and that is no leſſe than the certain <hi>ſalvation</hi> of your <hi>ſoul</hi>) I reſt,</p>
+            <closer>
+               <salute>Sir,</salute>
+               <signed>
+                  <hi>Your most humble ſervant</hi> P. Samwaies.</signed>
+            </closer>
+         </div>
+         <div type="errata">
+            <pb facs="tcp:38019:9"/>
+            <head>ERRATA.</head>
+            <p>Read, &amp;c. but inſert what is thus () marked.</p>
+            <p>
+               <hi>In the Epiſt: amuſed</hi> page 3. line 6.</p>
+            <list>
+               <item>
+                  <hi>(in)</hi> p. 10. l. 5.</item>
+               <item>
+                  <hi>(from)</hi> ibid. l. 25.</item>
+               <item>
+                  <hi>(obſtinate)</hi> p. 16. l. 24.</item>
+               <item>
+                  <hi>Latin-</hi> p. 17. l. 8.</item>
+               <item>
+                  <hi>condemned</hi> p. 18. l. 5.</item>
+               <item>
+                  <hi>unlimited</hi> p. 23. l. 21.</item>
+               <item>
+                  <hi>(of Rome)</hi> p. 29. l. 10.</item>
+               <item>
+                  <hi>Reply</hi> p. 37. l. 7.</item>
+               <item>
+                  <hi>debeitam</hi> in marg. p. 38.</item>
+               <item>
+                  <hi>ſpec alia</hi> ibid.</item>
+               <item>
+                  <hi>receſſe</hi> p. 41. l. 5</item>
+               <item>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> ibid. l. 28.</item>
+               <item>(<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) ibid.</item>
+               <item>
+                  <hi>reaſoning</hi> p. 42. l. 9.</item>
+               <item>
+                  <hi>Biſhops</hi> p. 45. l. 12.</item>
+               <item>
+                  <hi>(the)</hi> ib. l. 20.</item>
+               <item>
+                  <hi>Anteceſſores</hi> i<g ref="char:cmbAbbrStroke">̄</g> mar. p. 48.</item>
+               <item>
+                  <hi>Jacobaſius</hi> ib. l. 16.</item>
+               <item>
+                  <hi>vim</hi> in marg. p. 51.</item>
+               <item>
+                  <hi>diminiſh</hi> p. 52. l. 1.</item>
+               <item>
+                  <hi>thought</hi> ib. l. 21.</item>
+               <item>
+                  <hi>(&amp;)</hi> in marg. ib.</item>
+               <item>
+                  <hi>magnopere</hi> in mar. p. 53.</item>
+               <item>
+                  <hi>cred tum</hi> ib.</item>
+               <item>
+                  <hi>Photius</hi> ib. l. 26.</item>
+               <item>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> ibid.</item>
+               <item>
+                  <hi>Franofurdienſi</hi> i<g ref="char:cmbAbbrStroke">̄</g> m. p. 55</item>
+               <item>
+                  <hi>Hinemarus</hi> ib. l. 25.</item>
+               <item>
+                  <hi>Pithaeus</hi> p. 56.</item>
+               <item>
+                  <hi>habita</hi> in marg. ib.</item>
+               <item>dele ib. <hi>[Germancru<g ref="char:cmbAbbrStroke">̄</g> &amp;]</hi>
+               </item>
+               <item>
+                  <hi>Apoſtolici</hi> ibid.</item>
+               <item>
+                  <hi>(a)</hi> p. 57. l. 20.</item>
+               <item>
+                  <hi>Ex.</hi> 20.4, 5. p. 58. l. 17</item>
+               <item>
+                  <hi>martyrib.</hi> in marg. p. 62.</item>
+               <item>
+                  <hi>Quoniam</hi> in m. p. 63.</item>
+               <item>
+                  <hi>Dominico</hi> ib. <hi>plebi</hi> ib.</item>
+               <item>
+                  <hi>Chryſoſt.</hi> p. 67. l. 8.</item>
+               <item>
+                  <hi>Nyſſen</hi> ibid.</item>
+               <item>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> ib.</item>
+               <item>
+                  <hi>quia</hi> in marg. p. 76.</item>
+               <item>
+                  <hi>duodececim</hi> in mar. p. 78.</item>
+               <item>(<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) p. 79. l. 17.</item>
+               <item>
+                  <hi>ancient</hi> p. 80. l. 28.</item>
+               <item>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> in marg. p. 83.</item>
+               <item>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> ibid.</item>
+               <item>
+                  <hi>ſometimes</hi> p. 84. l. 26</item>
+               <item>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> in marg. p. 87.</item>
+               <item>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> ibid.</item>
+               <item>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> ibid.</item>
+               <item>
+                  <hi>(any juriſdiction)</hi> p. 89.</item>
+               <item>lin. 23.</item>
+            </list>
+            <p>What other Errors of the Preſſe, beſides theſe here noted, the Reader ſhall obſerve he is deſired candidly to correct.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:38019:10"/>
+            <pb n="9" facs="tcp:38019:10"/>
+            <head>The Invalidity of the Church of <hi>Rome</hi>'s Plea againſt her Apoſ<g ref="char:EOLhyphen"/>tacy, Hereſy, &amp; Schiſme, as appears by a Proteſtants anſwer to certain QUAERIES, &amp;c.</head>
+            <div type="part">
+               <head>The Romaniſt's Quaeries.</head>
+               <p>IT will not be deny'd but that the Church of <hi>Rome</hi> was once a moſt pure, excellent, flouriſhing and mo<g ref="char:EOLhyphen"/>ther-Church.</p>
+               <p>This Church could not ceaſe to be ſuch, but ſhe muſt fall either by Apoſta<g ref="char:EOLhyphen"/>cy, Hereſy, or Schiſme.</p>
+               <p>Firſt, Apoſtacy is not only a re<g ref="char:EOLhyphen"/>nouncing of the faith of Chriſt, but the very name and title of Chriſtianity:
+<note place="margin">
+                     <hi>White</hi> de<g ref="char:EOLhyphen"/>fence of his way P. 435.</note> no man will ſay that the Church of <hi>Rome</hi> had ever ſuch a fall, or fell thus.</p>
+               <p>Secondly, Hereſy is an adhaeſion to ſome private and ſingular opinion,
+<note place="margin">
+                     <hi>K. James</hi> in his Speech to the Par.</note> or error in faith, contrary to the generall approved Doctrine of the Church.</p>
+               <pb n="10" facs="tcp:38019:11"/>
+               <p>If the Church of <hi>Rome</hi> did ever adhaere to any ſingular or new opinion diſ<g ref="char:EOLhyphen"/>agreeable to the common received doctrine of the Chriſt a world;
+<note place="margin">
+                     <hi>Whitaker</hi> in his Anſwer to Dr. Sanders 2. demon. <hi>Reynolds</hi> in his 5. Con.</note> I pray you ſatisfieme theſe particulars, viz.</p>
+               <list>
+                  <item>1. <hi>By what Generall Councell was ſhe ever condemned?</hi>
+                  </item>
+                  <item>2. <hi>Which of the Fathers ever writ againſt her?</hi> or,</item>
+                  <item>3. <hi>By what Authority was ſhe other<g ref="char:EOLhyphen"/>wiſe reproved?</hi>
+                  </item>
+               </list>
+               <p>For it ſeems to me to be a thing ve<g ref="char:EOLhyphen"/>ry incongruous, that ſo great and glori<g ref="char:EOLhyphen"/>ous a Church ſhould be condemned by every one that hath a mind to con<g ref="char:EOLhyphen"/>demne her.</p>
+               <p>Thirdly, Schiſme is a departure of diviſion from the unity of the Church whereby the bond and communion hel<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> with ſome former Church is broken and diſſolved.</p>
+               <p>If ever the Church of <hi>Rome</hi> divided her ſelfe by ſchiſme from any other Body of faithfull chriſtians, or brake com<g ref="char:EOLhyphen"/>munion, or went forth the ſociety of any elder Church; I pray you ſatiſ<g ref="char:EOLhyphen"/>ſie me as to theſe particulars,
+<list>
+                     <item>1. <hi>Whoſe Company did ſhe leave?</hi>
+                     </item>
+                     <pb n="11" facs="tcp:38019:11"/>
+                     <item>2. <hi>From what Body did ſhe go forth?</hi>
+                     </item>
+                     <item>3. <hi>Where was the true Church which ſhe forſook?</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>For it appears a little ſtrange to me that a Church ſhould be accounted ſchiſmaticall, when there cannot be aſ<g ref="char:EOLhyphen"/>ſigned any other church different from her (which from age to age (ſince Chriſt his time) hath continued viſible) from whom ſhe departed.</p>
+            </div>
+            <div type="part">
+               <head>The Protestants Anſwer.</head>
+               <p>WE deny not the honour, reputa<g ref="char:EOLhyphen"/>tion and glory that was due ſometime to the Roman-Church; ſhe was as other Churches in their integri<g ref="char:EOLhyphen"/>ty and during her continuance in that condition, we deny her no title of com<g ref="char:EOLhyphen"/>mendation proper for her. Such was the Church of <hi>Jeruſalem;</hi> of which not<g ref="char:EOLhyphen"/>withſta<g ref="char:cmbAbbrStroke">̄</g>ding you may hear the Lord ma<g ref="char:EOLhyphen"/>king this co<g ref="char:cmbAbbrStroke">̄</g>plaint in the holy Prophet <hi>Iſaiah,
+<note place="margin">Iſa. 1.21, 22.</note> How is the faithfull Citie become an harlot; it was full of judgement, righ<g ref="char:EOLhyphen"/>teouſneſſe lodged in it; but now murther<g ref="char:EOLhyphen"/>ers. Thy ſilven is become droſſe, thy wine mixed with water.</hi>
+               </p>
+               <pb n="10" facs="tcp:38019:12"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="11" facs="tcp:38019:12"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="12" facs="tcp:38019:13"/>
+               <p>We charge not this whole Church to have forfeited the good opinion the world had of her, in any one inſtance of time: for we believe generally of all Churches,
+<note place="margin">1 Cor. 3.9.</note> that they were <hi>God's Huſ<g ref="char:EOLhyphen"/>bandry,</hi> and <hi>God's Building,</hi> as St. <hi>Paul</hi> ſpeaks of the Corinthian-church, and that ſalvation was to be found in them; but withall we firmly believe that there were wicked factions in the Church, that embraced and taught damnable er<g ref="char:EOLhyphen"/>rors;
+<note place="margin">1 Cor. 15.12.</note> ſome we know were among the Corinthians that <hi>denyed the Reſurrecti<g ref="char:EOLhyphen"/>on;</hi> ſome among the Galatians that <hi>urged Circumciſion:</hi>
+                  <note place="margin">Gal. 6.12.</note> and if theſe facti<g ref="char:EOLhyphen"/>ons had been ſo potent as to have exclu<g ref="char:EOLhyphen"/>ded from their communion all that would not have approved their hereti<g ref="char:EOLhyphen"/>call errors, why thoſe particular Churchs (in reſpect of ſuch a prevailing party) might not be charg'd to have fallen by Apoſtacy, Hereſy, and ſchiſme, I ſee no reaſon.</p>
+               <p>When therefore ſuch opinions that were maintained before by particular men, became the Sanctions and Lawes of the Roman-Church; (as the worſhip<g ref="char:EOLhyphen"/>ping of Images, the invocation of
+<pb n="13" facs="tcp:38019:13"/>Saints and Angells, the Doctrines of juſtification by workes, Purgatory, halfe-Communion, Co<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>po<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eall-reall preſence, merit of good workes, &amp;c.) then the Church of <hi>Rome</hi> might be ſaid to have fallen by Apoſtacy, hereſy &amp; Schiſme.</p>
+               <p n="1">1. By Apoſtacy from the purity of that holy Doctrine, which ſometimes by her Biſhops and Miniſters ſhe taught; for Apoſtacy doth not imply the re<g ref="char:EOLhyphen"/>nouncing of the Name and Title to Chriſtianity only, nor a departing from the whole Chriſtian faith, but a with<g ref="char:EOLhyphen"/>drawing from the ſincerity and ſound<g ref="char:EOLhyphen"/>neſſe of the profeſſion which men have formerly made: it hath a latitude in it, which admits of degrees, one may apoſ<g ref="char:EOLhyphen"/>tatize from a portion, as well as from the whole Truth.</p>
+               <p n="2">2. By hereſy alſo hath the Church of <hi>Rome</hi> fallen, if to depart from the truth of Chriſtian Religion in points (at leaſt grating upon the foundations, if not fundamentall) and to maintain them pertinaciouſly, be hereſy. How far the Church of <hi>Rome</hi> is involved in the guilt of the Biſhop of it, concerns
+<pb n="12" facs="tcp:38019:14"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="13" facs="tcp:38019:14"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="14" facs="tcp:38019:15"/>them eſpecially to conſider, who con<g ref="char:EOLhyphen"/>tend that he is the Head not of that particular Church only, but of the whole Catholique Church: but if that Church may be ſaid to be hereticall whoſe Biſhop is guilty of hereſy, it will be hard for the Romiſh-Church to acquit her ſelfe fro<g ref="char:cmbAbbrStroke">̄</g> this charge til ſhe can prove that <hi>Liberius</hi> ſubſcrib'd not to the Arria<g ref="char:cmbAbbrStroke">̄</g> Confeſſion, which St. <hi>Hierome</hi>
+                  <note n="*" place="margin">in Catalogo</note> ſaith he did, compelled indeed by <hi>Fortunatianus</hi> but yet he did it: <hi>Fortunatianus in hoc habetur deteſtabilis, quod Liberium Ro<g ref="char:EOLhyphen"/>manae urbis Epiſcopum, profide ad exili<g ref="char:EOLhyphen"/>um pergentemprinius ſollicitavit, ac fregit &amp; ad ſubſcriptionem haereſios compuin.</hi> Let her vindicate alſo <hi>Anaſtatius ſecun<g ref="char:EOLhyphen"/>dus</hi> from Neſtorianiſme, which is char<g ref="char:EOLhyphen"/>ged upon him by
+<note n="*" place="margin">apud Chamier lib: 3. de Ca<g ref="char:EOLhyphen"/>none cap. 10.</note> 
+                  <hi>Luitprandus Tieinen<g ref="char:EOLhyphen"/>ſis Platina</hi> (who ſaith upon the credit of common fame, that he dyed a ſtrange death, either as <hi>Arrius,</hi> or by a ſuddain ſtroak from the Divine hand,) <hi>Albo flo<g ref="char:EOLhyphen"/>riacenſis, &amp; Anaſtaſins Bibliot hecarius.</hi> Let her make an Apology for
+<note n="*" place="margin">condemna<g ref="char:EOLhyphen"/>tus in ſexta Synodo.</note> 
+                  <hi>Honorius,</hi> who was condemned by a Councell; a better Apology it ſhould be then that of <hi>Saunders,</hi> who though <hi>Honor<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>us</hi> taught
+<pb n="15" facs="tcp:38019:15"/>hereſie, yet denies the Roman Church to have erred with him, and adds that though he might confirme hereſie as a man, yet he did it not as a Pope.</p>
+               <p n="3">3. The Church of <hi>Rome</hi> is guilty of Schiſme, in that ſhe doth not only de<g ref="char:EOLhyphen"/>part from the communion of ſuch Churches as were Orthodox in the judgement of prime and pure Antiqui<g ref="char:EOLhyphen"/>ty, but hath forced a departure of all the reformed Churches from her, except they would communicate with her in her abominations. <hi>Schiſme is theirs who cauſe it;</hi> when the Orthodox de<g ref="char:EOLhyphen"/>parted from the Arrians, the Hereticks cauſed the Schiſme; a forced ſeparati<g ref="char:EOLhyphen"/>on, maketh not them that (in ſuch a caſe) ſeperate themſelves guilty of ſchiſme, ſuch rather as teach doctrines to the Catholique faith repugnant, are Schiſmaticks; and this imputation ly<g ref="char:EOLhyphen"/>eth ſtrong upon the Church of <hi>Rome,</hi> in forcing the Canons of the <hi>Trent</hi>-Councell: if then it be demanded (for the conviction of the Roman-church to be Schiſmaticall) firſt, <hi>Whoſe company did ſhe leave:</hi> ſecondly, <hi>From what Body did ſhe go forth:</hi> thirdly, <hi>Where
+<pb n="16" facs="tcp:38019:16"/>was the true Church which ſhe forſook.</hi>
+               </p>
+               <p n="1">1. To the firſt queſtion we reply, that ſhe left the company of the Orthodox when ſhe obſtinately pernſted in her falſe doctrines.</p>
+               <p n="2">2. She departed from their Body, not by locall ſeparation, but by refuſing to communicate with them that refor<g ref="char:EOLhyphen"/>med themſelves, which particular Churches are bound to do, when they cannot do it (which were the beſt courſe) by a generall Councell. This advice God himſelfe giveth unto <hi>Judah</hi> by the Prophet <hi>Hoſea,</hi> though the tenne Tribes ſhould continue obſtinate; <hi>Though thou Iſraell play the Harlot,
+<note place="margin">Hoſea 4.15.</note> yet let not Judoh offend:</hi> though there were but two Tribes in the one Kingdome, and tenne in the other, yet (notwith<g ref="char:EOLhyphen"/>ſtanding the paucity of the one Church, and the multitude of the other compa<g ref="char:EOLhyphen"/>ratively,) they were to reforme themſelves that were fewer, in caſe the other ſhould remain in their Idolatry. 3. And if it be thirdly demanded, <hi>Where was the true Church which the Roman-church forſock:</hi> we reply firſt what we ſaid before, that the guilt of ſchiſme
+<pb n="17" facs="tcp:38019:16"/>may be incurred by forcing others (ex<g ref="char:EOLhyphen"/>cept they will defile themſelves by joyning with thoſe that have eſpouſed dangerous errors in their ſuperſtition and Idolatry) to depart from us: and then ſecondly, it's conſpicuous enough that ſhe left her ſelfe as one may ſay; I mean that the Lattine-Church obſti<g ref="char:EOLhyphen"/>nate and peramtory in the perilous opi<g ref="char:EOLhyphen"/>nions of ſome of her own communion (when ſhe publikely owned thoſe doc<g ref="char:EOLhyphen"/>trines, and would no longer endure them that would not comply with her therein) forſook the reſt of her Com<g ref="char:EOLhyphen"/>munion, who miſliked and deteſted the ſaid errors in heart, before they had (by the concurrent aſſiſtance of Princes and Prelates) opportunity to ſhake off the Tyrany of the Biſhop of <hi>Rome,</hi> (whoſe ancient priviledge and Primacy of order (were that the only quarrell) we would not deny) and when the good Providence of God gave a fair opportunity, they openly rejected what with grief of heart they groaned under and tolerated before.</p>
+               <p>As for that enquiry, 1. <hi>By what gene<g ref="char:EOLhyphen"/>rall Councell:</hi> 
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <hi>Fathers:</hi> 3.
+<pb n="18" facs="tcp:38019:17"/>
+                  <hi>By what other Authority hath the Church of Rome been condemned, written againſt or reproved?</hi> We anſwer, that the pre<g ref="char:EOLhyphen"/>ſent opinions and practice of the Church of <hi>Rome</hi> are dondemn'd by Ge<g ref="char:EOLhyphen"/>nerall Councells: <hi>the Uſurpation of unlimited Power challenged by the Pope,</hi> is cenſured by the ſixth Canon of the famous Councell of <hi>Nice;</hi> which giveth like Eccleſiaſticall juriſdiction to the Patriarchs of <hi>Alexandria,</hi> and <hi>Antioch</hi> within their reſpective limits and bounds, as the Biſhop of <hi>Rome</hi> did exerciſe within his Precincts: <hi>the wor<g ref="char:EOLhyphen"/>ſhipping of Images,</hi> cenſured about twenty years before the Councell of <hi>Nice,</hi> by the 36 Canon of the Councell of <hi>El<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>beris; Placuit picturas in Eccleſia eſſe non debere,</hi> &amp;c. 'Tis reſolved that Pictures ſhould not be in the Church, leſt that which is adored be painted on walls: and whatſoever may be pleaded by the authority of the ſecond Coun<g ref="char:EOLhyphen"/>cell of <hi>Nice,</hi> in the defence of Images, yet it's evident that the Canons there<g ref="char:EOLhyphen"/>of were not univerſally received; be<g ref="char:EOLhyphen"/>cauſe as ſoon as the newes of the Acts thereof came to the ears of the Fathers
+<pb n="19" facs="tcp:38019:17"/>aſſembled (by <hi>Charles</hi> the great, two years afterward) at <hi>Frankford,</hi> they were rejected, and refuted by thoſe three hundred Biſhops there convened. If it ſhould be demanded, <hi>where is the Councell that hath condemned Rome ſince the ſeperation of the Proteſtants?</hi> it is eaſy to reply, that the obſtinacy of the Pope and his Adhaerents, obſtruct the application of ſo good a Plaiſter to the wounds and breakings of the Church: what fruit is like to come upon ſuch a Convention as the Pope would agree to, may appear by the tranſactions of the <hi>Trent</hi>-Aſſembly; but the want of the ſentence of a Generall Councell condemning the Church of <hi>Rome,</hi> is no ſecurity to the Romaniſts that their Church is a ſafe Communion to thoſe that are in it; for dangerous errors and hereſies aroſe in the Church before <hi>Con<g ref="char:EOLhyphen"/>ſtantine's</hi> time, and ſuch as were de<g ref="char:EOLhyphen"/>ſtructive to them that held them, and yet they were not condemned by Ge<g ref="char:EOLhyphen"/>nerall Councells; there having been no convenience for their meeting untill the Empire came into the Church.</p>
+               <p n="2">
+                  <pb n="20" facs="tcp:38019:18"/>
+2. For the Fathers of the firſt five hundred years, it is evident enough that they are againſt the preſent Church of <hi>Rome</hi> in all the Controverſies diſpu<g ref="char:EOLhyphen"/>ted between the Romaniſts and the Proteſtants, as might be quickly ſhown out of their writings, were it ſeaſonable to take the pains: and then moreover to give an accompt to the third Enqui<g ref="char:EOLhyphen"/>ry, where it is demanded <hi>By what other authority hath ſhe been reproved?</hi> We deſire no more ample Authority than the Scriptures interpreted by the wiſ<g ref="char:EOLhyphen"/>dome and conſtant conſent of the Ca<g ref="char:EOLhyphen"/>tholique Church.</p>
+            </div>
+            <div type="part">
+               <head>The Romanists Reply to the Pro<g ref="char:EOLhyphen"/>testants Anſwer.</head>
+               <opener>
+                  <salute>Sir,</salute>
+               </opener>
+               <p>YOu ſent me ſome Catholique Quaeries with (as you ſay) Doctor <hi>Samwais</hi>'s Anſwer, to which take this brief Reply.</p>
+               <p>The Paper (which you ſent) takes it for granted, and the Dr. denies it not, that the Church of <hi>Rome</hi> was once a moſt pure Church, and proves her con<g ref="char:EOLhyphen"/>tinuance thus;</p>
+               <p>
+                  <pb n="21" facs="tcp:38019:18"/>
+This Church could not ceaſe to be ſuch, but ſhe muſt fall either by Apoſta<g ref="char:EOLhyphen"/>cy, Hereſy, or Schiſme: But firſt, not by apoſtacy; for Apoſtacy is not only a renouncing of the faith of Chriſt, but the very name and title to chriſtianity, none will ſay the church of <hi>Rome</hi> ever fell thus.</p>
+               <p>But notwithſtanding this the Doctor (by a new definition of apoſtacy) will prove ſhe fell thus; <hi>for</hi> (ſaith he) <hi>Apoſ<g ref="char:EOLhyphen"/>tacy doth not imply the renouncing of the name and title to Chriſtianity only nor a departure from the whole Chriſti<g ref="char:EOLhyphen"/>an Faith, but a withdrawing from the ſincerity and ſoundneſſe of the Profeſſi<g ref="char:EOLhyphen"/>on which we have formerly made.</hi> But the Church of <hi>Rome</hi> hath thus with<g ref="char:EOLhyphen"/>drawn, <hi>ergo,</hi> he proves the <hi>minor,</hi> becauſe ſhe embraces particular Doctrines there mention'd which formerly ſhe did not.</p>
+               <p>
+                  <hi>Reply.</hi> The <hi>minor</hi> is deny'd; and the probation concerning particular Doctrines, as <hi>Worſhipping of Images, invocation of Saints,</hi> &amp;c. is likewiſe de<g ref="char:EOLhyphen"/>ny'd, becauſe aſſum'd without proof: and the definition he gives of Apoſtacy is invalid, becauſe it confounds Apoſ<g ref="char:EOLhyphen"/>tacy
+<pb n="22" facs="tcp:38019:19"/>with hereſy; but the other defini<g ref="char:EOLhyphen"/>tion is good, becauſe it clearly diſtin<g ref="char:EOLhyphen"/>guiſhes them; and if ſo, then the D<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> hath not prov'd as yet <hi>that the Church of</hi> Rome <hi>hath ever fallen by hereſie.</hi>
+               </p>
+               <p>This done, the paper proceeds to prove, that ſecondly the Church of <hi>Rome</hi> never fell by hereſy: and to effect this, it puts the definition of hereſy (ſee it in the paper) then it goes o<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thus, If the Church of <hi>Rome</hi> did eve<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> adhere to any ſingular or new opinion diſagreeable to the common receive<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Doctrine of the Chriſtian-world, I pray ſatisfy me in theſe particulars, viz. 1. <hi>By what generall Councell was ſhe ever con<g ref="char:EOLhyphen"/>demned?</hi> 2. <hi>Which of the Fathers ever w<gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> againſt her?</hi> 3. <hi>By what authority was ſh<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> otherwiſe reproved?</hi> Before we put the Drs. anſwers to theſe particulars, we will take a view how he proves the Church of <hi>Rome</hi> to have fallen by hereſy thus therefore he argues,</p>
+               <p>
+                  <hi>Certain Popes, Biſhops of the Church of</hi> Rome, <hi>as</hi> Liberius, Anaſtaſius <hi>ſecun<g ref="char:EOLhyphen"/>dus, and</hi> Honorius, <hi>have fallen by hereſie</hi> ergo, <hi>the Church of</hi> Rome <hi>hath fallen by Hereſie.</hi>
+               </p>
+               <p>
+                  <pb n="23" facs="tcp:38019:19"/>
+                  <hi>Reply,</hi> The Antecedent begets a new diſpute of ihe Popes infallibility <hi>ex Cathedrâ,</hi> which is to be wav'd, be<g ref="char:EOLhyphen"/>cauſe the paper doth not meddle with it: and I deny the conſequence, which he no wayes goes about to prove. But ſince he cannot prove that the Church of <hi>Rome</hi> hath fallen by hereſy; let us ſee (at leaſt) what he ſayes to the Quae<g ref="char:EOLhyphen"/>ries. To the firſt then, which demands, <hi>By what generall Councell was ſhe ever condemned?</hi> he anſwers, by the ſixt Ca<g ref="char:EOLhyphen"/>non of the famous Councell of <hi>Nice,</hi> which condemns the uſurpation of un<g ref="char:EOLhyphen"/>limited power challenged by the Pope, and gives like Eccleſiaſticall juriſdic<g ref="char:EOLhyphen"/>tion to the patriarchs of <hi>Alexandria</hi> and <hi>Antioch</hi> within their reſpective limits and bounds, as the Biſhop of <hi>Rome</hi> did exerciſe within his Precincts.</p>
+               <p>
+                  <hi>Reply.</hi> This unlimmited power (chal<g ref="char:EOLhyphen"/>lenged by the Pope) is his ſupremacy, alwayes held by the Church of <hi>Rome</hi> and her adhaerents to be of Divine in<g ref="char:EOLhyphen"/>ſtitution: and therefore onely ſaid not prov'd (in which he is ſtil like himſelf) to be an Uſurpation.</p>
+               <p>
+                  <pb n="24" facs="tcp:38019:20"/>
+As for the ſixt Canon of the Nicene Councell, it is ſo farr from condemning or limiting the univerſall juriſdict on juſtly challenged by the Biſhop of <hi>Rome</hi> as it clearly aſſerts it: to evince, this we will cite the words of the Canon, which the Dr. (leaſt they ſhould diſco<g ref="char:EOLhyphen"/>ver his bold aſſertion untrue) omitred the words are theſe, <hi>Let the ancient cuſtome be kept in</hi> Aegypt, Lybia, <hi>&amp;</hi> Pen<g ref="char:EOLhyphen"/>tapolis; <hi>that the Biſhop of</hi> Alexand<gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <hi>have power over all theſe, becauſe the Ro<g ref="char:EOLhyphen"/>man-Biſhop alſo hath ſuch a cuſtome<g ref="char:punc">▪</g>
+                  </hi> theſe laſt words, <hi>becauſe the B<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſhop of Rome,</hi> &amp;c. evince the thing to be a<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> I have ſaid; for they are the reaſon why the Patriarch of <hi>Alexandria,</hi> is to have that Government, to wit, <hi>becauſe</hi> (as the Councell ſayes) <hi>it is the Biſhop of Rome his cuſtome to have it ſo.</hi> If you ſay that the Popes cuſtome is not referr'd to the Government of theſe Churches by the Patriarch of <hi>Alexandria</hi> but to the Government of other Churches in the Weſt: I reply, that you ſpeak a<g ref="char:EOLhyphen"/>gainſt the Text, becauſe this, not ano<g ref="char:EOLhyphen"/>ther thing, but this here ſpoken off, viz. <hi>That the Biſhop of</hi> Alexandria <hi>have power
+<pb n="25" facs="tcp:38019:20"/>over theſe Provinces,</hi> this is accuſtomed, and to whom? to the Biſhop of <hi>Rome; it is his cuſtome to have it ſo, wherefore we like of it well and confirme it:</hi> Out of which it is clear they do not condemne or limit his Univerſall juriſdiction, but confirme it. I know the Dr. would have the ſence of the Canon to be this, <hi>Let the Biſhop of Alexandria governe in the places ſpecified, becauſe the Biſhop of Rome hath a cuſtome to governe in other places,</hi> to wit, <hi>in the Weſt.</hi>
+               </p>
+               <p>
+                  <hi>Reply,</hi> This is againſt the fence of the Canon; for thoſe words, <hi>becauſe the Biſhop of Rome,</hi> &amp;c. are the reaſon why the Patriarch of <hi>Alexandria</hi> is to have that Government, whereas a Bi<g ref="char:EOLhyphen"/>ſhop's governing Churches in the Weſt, were no reaſon why the Biſhop of <hi>Alexandria</hi> particularly ſhould go<g ref="char:EOLhyphen"/>verne the Churches here mentioned.</p>
+               <p>As for the Councell of <hi>Eliberis,</hi> it being but a particular one, and the Quaeries demanding a generall one, we need not reply unto it: Nay if it be look'd into, it abſolutely makes for the Church of <hi>Rome;</hi> the words are <hi>Placu't picturas in Eccleſia eſſe non debere,</hi> &amp;c.
+<pb n="26" facs="tcp:38019:21"/>
+                  <hi>'Tis reſolved, that Pictures ſhould not be in the Church, leaſt that which is a<g ref="char:EOLhyphen"/>dored, be painted on walls.</hi> In which Decree, theſe words <hi>that which is ado<g ref="char:EOLhyphen"/>red,</hi> are manifeſtly againſt the Doctor; for they ſuppoſe a due reverence con<g ref="char:EOLhyphen"/>ſtantly given to pictures: and leſt that things reverenced might be abuſ'd the Councell forbad pictures (in thoſe times of perſecution) to be painted on the Church-walls, for fear the Infidells ſhould deface them.</p>
+               <p>Now if you bring the Authority of the ſecond generall Councell of <hi>Nice,</hi> (Act 7.) deſining that we muſt exhibit to Pictures (contrary to what Dr. <hi>Sam<g ref="char:EOLhyphen"/>waies</hi> holds) <hi>Honorariam adorationens non veram <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>at<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iam:</hi> An honorary adorati<g ref="char:EOLhyphen"/>on, not true <hi>latria,</hi> that is, <hi>an inferiour a<g ref="char:EOLhyphen"/>doration,</hi> but not the <hi>ſupream</hi> due to Almighty God only. Hethinks to e<g ref="char:EOLhyphen"/>vade, by ſaying <hi>the Canons thereof were not univerſally received, becauſe aſſoon as the news of the Acts came to the ears of the Fathers aſſembled at</hi> Frank<g ref="char:EOLhyphen"/>ford, <hi>they were rejected and refuted, by thoſe</hi> 300. <hi>Biſhops there convened.</hi>
+               </p>
+               <p>
+                  <pb n="27" facs="tcp:38019:21"/>
+                  <hi>Reply.</hi> It is barely ſaid, not prov'd, that the Nicene Canons were not uni<g ref="char:EOLhyphen"/>verſally received, but I expect proof: as for the Councell of <hi>Frankford,</hi> it nei<g ref="char:EOLhyphen"/>ther rejects nor refutes the Nicene Ca<g ref="char:EOLhyphen"/>nons, but only defines, <hi>that</hi> vera latria <hi>is not to be given to Images;</hi> which the Councell of <hi>Nice</hi> likewiſe affirms. If then theſe two Councells agree, how could the Dr. truly ſay, that the <hi>Frank<g ref="char:EOLhyphen"/>ford</hi> councell rejected the Nicene.</p>
+               <p>Thus you ſee, that the Dr. hath not at all prov'd the church of <hi>Rome</hi> con<g ref="char:EOLhyphen"/>demned by any generall Councell. But ſince he cannot prove it by Authority, he will by reaſon thus.</p>
+               <p>
+                  <hi>The want</hi> (ſaith he) <hi>of the ſentence of a generall Councell condemning the Church of</hi> Rome <hi>is no Security to the Romaniſts, that their Church is ae ſure communion to thoſe that are in it, for dangerous errors and hereſies aroſe in the Church before</hi> Conſtantine's <hi>time, &amp; ſuch as were deſtructive to thoſe that held them, and yet they were not condemned by Gene<g ref="char:EOLhyphen"/>rall Councells, there having been <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o convenience for their meeting, untill
+<pb n="28" facs="tcp:38019:22"/>the Empire came into the Church.</hi>
+               </p>
+               <div type="section">
+                  <head>Reply.</head>
+                  <p>We grant that the Church both can and has condemned ariſing hereſies before there was any conveniency for a generall Councell; for the Church either diffuſedly or repreſentatively, that is, either as ſhe is diſperſt through<g ref="char:EOLhyphen"/>out the world, and out of councell; or as aſſembled in a generall Councell, hath power to co<g ref="char:cmbAbbrStroke">̄</g>demn ariſing hereſies; and her condemnation of them (either way) is ſecurity enough to her adhe<g ref="char:EOLhyphen"/>rents. I grant likewiſe, that the want of the ſentence of a generall Councell to condemn us were no ſecurity to us, in caſe you could ſhew us otherwiſe condemned by the Catholique-church diſperſed throughout the world: but ſince you can neither do the one, nor the other, the Church of <hi>Rome</hi> and her adherents (that have both for them) are ſecure enough; and you (who have both againſt you) are moſt inſecure: and I ſay further, that ſeeing it hath been the cuſtome of the Catholique-church to condemn ariſing hereſies by general Councells ever ſince ſhe hath had the
+<pb n="29" facs="tcp:38019:22"/>conveniency of having them, it is cer<g ref="char:EOLhyphen"/>tain, that the Quaerie <hi>(by what generall Councell was ſhe ever condemned?)</hi> is rati<g ref="char:EOLhyphen"/>onally put, and you (being not able to produce one) leave it unſatisfied.</p>
+                  <p>As to the Quaerie, <hi>Which of the Fa<g ref="char:EOLhyphen"/>thers ever writ againſt her?</hi> the Dr. an<g ref="char:EOLhyphen"/>ſwers, <hi>that it is evident enough, that the Fathers of the firſt five hundred years are againſt the preſent Church in all con<g ref="char:EOLhyphen"/>troverſies diſputed between the Romaniſts and Proteſtants.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Reply.</head>
+                  <p>Sir, We expect to ſee your evidence, but never hope to ſee it produc'd.</p>
+                  <p>As to the third, <hi>By what Authority was ſhe otherwiſe reprov'd?</hi> the Dr. an<g ref="char:EOLhyphen"/>ſwers, <hi>We deſire no more ample Autho<g ref="char:EOLhyphen"/>rity than the Scriptures interpreted by the wiſdome and conſtant conſent of the Catholique Church.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Reply.</head>
+                  <p>Shew that the Scriptures thus (inter<g ref="char:EOLhyphen"/>preted) do reprove the Church of <hi>Rome;</hi> for till you do ſo, I muſt needs averre that the Ouaerie is unſatisfied.</p>
+                  <p>
+                     <pb n="30" facs="tcp:38019:23"/>
+Now let us ſee how the Paper ſent to Dr. <hi>Samwaies</hi>) proves the church of <hi>Rome</hi> not to have fallen at any time in<g ref="char:EOLhyphen"/>to Schiſme; and to do this, it puts the deſinition of Schiſme: (which ſee in the Paper:) then it proceeds, If ever the church of <hi>Rome</hi> &amp;c. read what is ſaid, till you come to the Quaeries, and af<g ref="char:EOLhyphen"/>terwards the Quaeries.</p>
+                  <p>This done, let us ſee how on the contrary the Dr. hath prov'd the church of <hi>Rome</hi> guilty of ſchiſme: <hi>The Church of Rome</hi> (ſaith he) <hi>&amp;c. hath departed from the communion of the Orthodox Churches.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Reply.</head>
+                  <p>Aſſigne them good Dr. otherwiſe you only give us words.</p>
+                  <p>He goes on. <hi>And hath forc'd a de<g ref="char:EOLhyphen"/>parture, &amp;c.</hi>
+                  </p>
+                  <p>No good Doctor, you voluntarily left her communion, and ſo made your ſelves Schiſmaticks.</p>
+                  <p>He proceeds. <hi>The ſchiſme is theirs who cauſe it.</hi> Let that paſſe.</p>
+                  <p>He holds on. <hi>When the Orthodox de<g ref="char:EOLhyphen"/>parted from the Arrians, &amp;c.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <pb n="31" facs="tcp:38019:23"/>
+                  <head>Reply.</head>
+                  <p>Strange! <hi>the Orthodox departed from the Arrians:</hi> this is quite contrary to St. <hi>John,</hi> (1 <hi>Jo:</hi> 2.19.) who ſpeaking of certain heretiques, ſayes, <hi>Exierunt ex nobis,</hi> they went out of us, or departed from us: which if true, (and certainly what St. <hi>John</hi> ſaith is true) and withall <hi>that the Orthodox departed from the Ar<g ref="char:EOLhyphen"/>rians,</hi> (as the Dr. ſayes) then it evident<g ref="char:EOLhyphen"/>ly followes, that the Orthodox were Ar<g ref="char:EOLhyphen"/>rians, that is heretiques; and the Ar<g ref="char:EOLhyphen"/>rians (that is heretiques) Orthodox: for according to St. <hi>Iohn</hi> they are he<g ref="char:EOLhyphen"/>retiques that depart, but according to Dr. <hi>Samwaies,</hi> the Orthodox departed from the Arrians, therefore the Ortho<g ref="char:EOLhyphen"/>dox were heretiques: and if ſo, then the Dr. at unawares hath made himſelfe an Arrian, for I ſuppoſe he will ſay, he is one of the Orthodox.</p>
+                  <p>I wonder again, the Dr. did not ſee the manifeſt contradiction he run into, when he ſaid <hi>the Orthodox departed;</hi> for the Orthodox are they that do not de<g ref="char:EOLhyphen"/>part from the Doctrine anciently re<g ref="char:EOLhyphen"/>ceived: ſo that to ſay, <hi>that the Ortho<g ref="char:EOLhyphen"/>dox departed,</hi> is to ſay, thoſe that did not
+<pb n="32" facs="tcp:38019:24"/>depart did depart; which is plain con<g ref="char:EOLhyphen"/>tradiction <hi>in terminis.</hi>
+                  </p>
+                  <p>Now he begins to anſwer the Quae<g ref="char:EOLhyphen"/>ries. <hi>If then</hi> (ſaith he) <hi>it be demanded,</hi> 1. Whoſe company did ſhe leave. 2. Fro<g ref="char:cmbAbbrStroke">̄</g> what body did ſhe go forth. 3. Where was the true Church which ſhe forſook? <hi>To the firſt</hi> (he ſaith) <hi>we reply, that ſhe left the company of the Orthodox, when ſhe perſiſted in her falſe Doctrines.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Reply.</head>
+                  <p>He does not ſatisfie the Quaerie at all, for he tells us not what Orthodox company ſhe left; he only ſayes, <hi>ſhe left the company of the Orthodox, becauſe ſhe perſiſted in her falſe doctrines:</hi> but this is ſtill to leave the Quaerie un<g ref="char:EOLhyphen"/>ſatisfied, and (according to his accuſto<g ref="char:EOLhyphen"/>med manner) to aſſert things without proof. I confeſſe, if we would grant what he ſaith without proof, he would need no more, and might lawfully pro<g ref="char:EOLhyphen"/>claim his victory.</p>
+                  <p>To the ſecond he replies, <hi>That ſhe departed from their body</hi> (that is, from the body of the Orthodox) <hi>not by locall ſeparation, but by refuſing to communicate with them that reformed themſelves.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <pb n="33" facs="tcp:38019:24"/>
+                  <head>Reply.</head>
+                  <p>You are ſtill like your ſelfe, that is, conſtant in affirming without proof: as for what you ſay of <hi>locall ſeparation</hi> 'tis frivolous to mention it, ſince none was urged in the paper: and as for the <hi>reformation,</hi> we call it <hi>deforma<g ref="char:EOLhyphen"/>tion,</hi> till you evidence the contrary.</p>
+                  <p>The text brought out of the Prophet <hi>Hoſea</hi> is impertinent, and ſo deſerves no reply: and as impertinent is the text (which at the beginning of his an<g ref="char:EOLhyphen"/>ſwer) he brings out of the Prophet <hi>Iſai<g ref="char:EOLhyphen"/>ah</hi> concerning the Church of <hi>Jeruſa<g ref="char:EOLhyphen"/>lem,</hi> which only proves, that there were many in her who were fallen in<g ref="char:EOLhyphen"/>to ſin: but what is this to the church of <hi>Romes</hi> falling into hereſie; for it is one thing to fall into ſin, another to fall into hereſie, and we deny not but ma<g ref="char:EOLhyphen"/>ny of the church of <hi>Rome</hi> fall into ſin. That inſtance likewiſe of the church of <hi>Corinth</hi> is to as little purpoſe objected againſt us, for it only proves that ſome (not all) did erre concerning the reſur<g ref="char:EOLhyphen"/>rection. He may if he pleaſe (but it is to as little purpoſe) argue thus, <hi>Other
+<pb n="34" facs="tcp:38019:25"/>particular Churches</hi> (as the Eaſtern) <hi>have fallen into hereſie, therefore the Church of</hi> Rome <hi>at leaſt may fall, therefore (for ought we know) hath fallen.</hi> I deny the conſequence; for it was only ſaid to St. <hi>Peter,</hi> and his Succeſſors, and the Church of which they were to be Paſ<g ref="char:EOLhyphen"/>tours; <hi>Thou art</hi> Peter, or as the Syriack hath it, <hi>Thou art a Rock, and upon this rock will I build my Church, and the gatos of hell ſhall not prevail againſt it.</hi>
+                  </p>
+                  <p>To the third, <hi>Which was the true Church which ſhe forſook?</hi> he ſayes, <hi>We reply what we ſaid before, that the guilt of ſchiſme may be incur'd by forcing others.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Reply.</head>
+                  <p>This is no anſwer, for you do not tell us, what true church ſhe forſook: and whereas you mention again her forcing you, I reply as before, that you voluntarily and wilfully left her; and if you ſtorme at her: becauſe by ſpiriru<g ref="char:EOLhyphen"/>all puniſhments ſhe ſeeks to reduce you to your former faith, you do like Re<g ref="char:EOLhyphen"/>bells, who voluntarily forſake their al<g ref="char:EOLhyphen"/>legiance, and afterwards ſtorme at the King who ſeeks to reduce them to their former alleglance by ſevere puniſh<g ref="char:EOLhyphen"/>ments:
+<pb n="35" facs="tcp:38019:25"/>and if you will needs have the Church of <hi>Rome</hi> guilty of ſchiſme for forcing you only in this manner; then how will you acquit the King (that he be not guilty of rebellion) who forceth his Subjects in the ſame manner? and ſo we ſhall have the King a Rebell, and not his Subjects.</p>
+                  <p>He ſaith likewiſe, that <hi>the Church of</hi> Rome <hi>hath left her ſelfe, as one may ſay.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Reply.</head>
+                  <p>One that will ſpeak contradiction, or not anſwer the Quaerie, may ſay ſo: for when you ſay that <hi>the Church of</hi> Rome <hi>hath left her ſelfe as one may ſay:</hi> either you muſt mean, that the whole hath left the whole, and this is a flat contradiction; or elſe you mean, that ſhe hath left her ſelfe, becauſe certain of her Members have left her; but this only ſhews that they have left her, not She her ſelfe; and ſo the <hi>Quarie</hi> is left unſatisfied. Thus have you a briefe <hi>Reply</hi> to the Drs. <hi>Anſwer;</hi> and how <hi>ſolid</hi> it is, let others judge.</p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="36" facs="tcp:38019:26"/>
+               <head>
+                  <hi>The Protestants</hi> Rejoynder <hi>to the Romaniſts</hi> Reply.</head>
+               <opener>
+                  <salute>Sir,</salute>
+               </opener>
+               <p>I Received the Paper, wherein I know not who maketh a Reply to that accompt which I gave to the Pro<g ref="char:EOLhyphen"/>poſalls, which you ſhewed me in the defence of the preſent Roman-church.
+<note n="(a)" place="margin">Facilè eſt cuiqua<g ref="char:cmbAbbrStroke">̄</g> videri reſpondiſſe qui tacere nolue<g ref="char:EOLhyphen"/>tic, aut quid eſt loquacius va<g ref="char:EOLhyphen"/>nitate? quae ideò no<g ref="char:cmbAbbrStroke">̄</g> poteſt quod veritas, quia ſi voluerit etiam plus po<g ref="char:EOLhyphen"/>teſt clamare quam veritas. <hi>De Civitat. Dei. lib.</hi> 5. <hi>c.</hi> 27.</note> St. <hi>Augustine</hi> ſaid it long ſince, and we find it true by experience, <hi>It is eaſy for any man to ſeem to anſwer a<g ref="char:EOLhyphen"/>nother who is reſolved not to hold his peace; for what is more talkative then vanity? which cannot do what verity can, becauſe (if it pleaſeth) it can make more noyſe than verity.</hi> The vulgar ſort think, that he that hath ſpoken laſt, hath the beſt cauſe; and ſo per<g ref="char:EOLhyphen"/>haps ſuch of your neighbours that are
+<pb n="37" facs="tcp:38019:26"/>blinded with the Romiſh errors, con<g ref="char:EOLhyphen"/>ceive all in my Anſwer abundantly ſa<g ref="char:EOLhyphen"/>tisfied by the Replyer, becauſe he hath thought fitting not to be ſilent. Though I have as little hope to ſatisfie thoſe who are reſolved to continue what they are, by my <hi>Rejoynder</hi> to this Replyer, as I had to convince them of their miſ<g ref="char:EOLhyphen"/>take in thinking ſo well of their Romiſh church, as the firſt paper would encou<g ref="char:EOLhyphen"/>rage them to do; yet leſt any of the weaker ſort among our ſelves ſhould think that the Replyer hath ſufficiently juſtified the reaſonableneſſe of the firſt <hi>quaries,</hi> by's accompt to what I wrote; or that I were wanting to my duty in defence of the Truth, I ſhall give you a ſhort ſatisfaction to all the pretenſi<g ref="char:EOLhyphen"/>ons made by the Replyer for the juſti<g ref="char:EOLhyphen"/>fication of <hi>Rome</hi> from <hi>Apoſtacy, Here<g ref="char:EOLhyphen"/>ſie</hi> and <hi>Schiſme.</hi>
+               </p>
+               <p>Firſt, the Replyer thinks himſelfe concerned to civill at my exceptions againſt the definition of Apoſtacy, mentioned in the Quaeries: he will needs have Apoſtacy to import as much as is ſaid in the Quaeries, <hi>not only a re<g ref="char:EOLhyphen"/>nouncing of the faith of Chriſt, but the
+<pb n="38" facs="tcp:38019:27"/>very name and title to Chriſtianity.</hi> I grant that a totall Apoſtacy doth; but the word ſignifying no more then a <hi>de<g ref="char:EOLhyphen"/>parture,</hi> it may be more or leſſe dange<g ref="char:EOLhyphen"/>rous, according to both the termes of ſuch a motion, from what truth, and to what error the departure is made.
+<note n="(b)" place="margin">Apoſtaſia importat retro ceſſione<g ref="char:cmbAbbrStroke">̄</g> qua<g ref="char:cmbAbbrStroke">̄</g> da<g ref="char:cmbAbbrStroke">̄</g> a Deo, quae quidem diver<g ref="char:EOLhyphen"/>ſimodè fit ſe<g ref="char:EOLhyphen"/>cundu<g ref="char:cmbAbbrStroke">̄</g>'diverſos modos, quibus homo Deo co<g ref="char:cmbAbbrStroke">̄</g>
+                     <g ref="char:EOLhyphen"/>jungitur: pri<g ref="char:EOLhyphen"/>mo nam<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ho<g ref="char:EOLhyphen"/>mo Deo con<g ref="char:EOLhyphen"/>jungitur per fi<g ref="char:EOLhyphen"/>dem. ſecundo per debitem, &amp; ſubjecta<g ref="char:cmbAbbrStroke">̄</g> volu<g ref="char:cmbAbbrStroke">̄</g>
+                     <g ref="char:EOLhyphen"/>tate<g ref="char:cmbAbbrStroke">̄</g> ad obedi<g ref="char:EOLhyphen"/>endu<g ref="char:cmbAbbrStroke">̄</g> praecep<g ref="char:EOLhyphen"/>tis ejus. tertio per aliqu a ſpe<g ref="char:EOLhyphen"/>ciala ad ſuper<g ref="char:EOLhyphen"/>crogationem pertmentia; ſi<g ref="char:EOLhyphen"/>cut per religio<g ref="char:EOLhyphen"/>ne<g ref="char:cmbAbbrStroke">̄</g> &amp; clerica<g ref="char:EOLhyphen"/>tura<g ref="char:cmbAbbrStroke">̄</g>, vel ſacru<g ref="char:cmbAbbrStroke">̄</g> ordine<g ref="char:cmbAbbrStroke">̄</g> remoto aute<g ref="char:cmbAbbrStroke">̄</g> poſteriori remanet prius: ſed non co<g ref="char:cmbAbbrStroke">̄</g>ver<g ref="char:EOLhyphen"/>titur. 22ae. q: 12. a: 1.</note> 
+                  <hi>Aquinas</hi> ſaith, that <hi>Apoſtacy denotes ſome kind of receſſe from God, which may come to paſſe in ſundry ſorts, according to the different means whereby aman is joyned unto God: for firſt'd man is united unto God by faith.</hi> 2. <hi>By the ſubmiſſion of his will to the Divine Precepts.</hi> 3. <hi>By ſpeciall pri<g ref="char:EOLhyphen"/>viledge of ſuper-eminency, as by holy Orders; and the laſt being removed, the firſt abideth;</hi> a man may renounce his Orders, and yet not his whole faith: let therefore the Replyer turn to his St. <hi>Thomas,</hi> and from him learn to un<g ref="char:EOLhyphen"/>derſtand what Apoſtacy ſignifies; or if he pleaſe, let him conſult a better Saint, I mean <hi>Luke</hi> the Evangeliſt, and he ſhall find him uſing the word for a par<g ref="char:EOLhyphen"/>ticular word of <hi>receſſe.</hi> When Saint <hi>Paul</hi> came to <hi>Jeruſalem,</hi> St. <hi>James</hi> the Biſhop of it, and the Elders ſaid unto
+<pb n="39" facs="tcp:38019:27"/>him,
+<note n="*" place="margin">Acts 21.21.</note> 
+                  <hi>Thou ſeeſt brother how many thou<g ref="char:EOLhyphen"/>ſands of the Jews there are which believe, and they are all zealous of the Law; and they are informd of thee, that thou teacheſt all the Jews which are among the Gentiles to forſake</hi> Moſes: <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Do we think the Jews had heard that St. <hi>Paul</hi> did forſake all the law of <hi>Moſes,</hi> judiciall, morall, and ce<g ref="char:EOLhyphen"/>remoniall? no, they inſtance only in <hi>circumciſion,</hi> and the <hi>cuſtomes,</hi> (which were the ceremoniall Law) and yet they thought that this receſſion only was ſufficient to denominate him a Doctor of Apoſtacy.
+<note n="(c)" place="margin">Duabus a<g ref="char:EOLhyphen"/>poſtaſus exiſ<g ref="char:EOLhyphen"/>entibus adbuc poteſt rema<g ref="char:EOLhyphen"/>nere homo Deo co<g ref="char:cmbAbbrStroke">̄</g>junc<g ref="char:EOLhyphen"/>tus per fidem; ſed ſi a ſide re<g ref="char:EOLhyphen"/>ceſſerit, tune omninò a Deo retrocedere vi<g ref="char:EOLhyphen"/>detur. id. ibid.</note> 
+                  <hi>Aquinas</hi> in the place afore-cited affirmeth, that <hi>one may de<g ref="char:EOLhyphen"/>part from God, by forſaking the order of his profeſſion, or degree in the Clergy; and alſo by perverſneſſe of mind againſt the Divine precepts; and yet [notwithſtand<g ref="char:EOLhyphen"/>ing theſe two Apoſtacies] remain conjoyn<g ref="char:EOLhyphen"/>ed unto God by faith: but if a man depart from the faith,</hi> [and
+<note n="*" place="margin">1. Tim 4.3.</note> St. <hi>Paul</hi> ſaith they do <hi>that ſhall teach to abſtain fro<g ref="char:cmbAbbrStroke">̄</g> marriage &amp; forbid the uſe of meats, which God hath created to be received with thanks giving of them which believe, and know the truth,</hi> and will not this Apoſtacy concerne
+<pb n="40" facs="tcp:38019:28"/>ſuch as teach thus?) <hi>then he ſeems to be guilty of a full Apoſtacy.</hi> When <hi>Bellarmine</hi> in his <hi>Appendix</hi> to his book <hi>de ſummo Pontifice,</hi> calls <hi>Luther</hi> an Apoſtate; he ſpeakes properly or not? the Replyer (I hope) will not charge the Cardinall to ſpeak incon<g ref="char:EOLhyphen"/>gruouſly, and yet all the world knowes that <hi>Luther</hi> renounced not the name and title of Chriſtianity, neither did the Cardinall think ſo.</p>
+               <p>But grant what indeed no man (not void of common ſence) can deny, that there may be a partiall Apoſtacy; yet the Replyer denies my <hi>Minor,</hi> (as he calls it) where I inſtance in the particular doctrines of <hi>worſhipping. Images, invocation of Saints, halfe-com<g ref="char:EOLhyphen"/>monion, corporeall-reall preſence, &amp;c.</hi> I becauſe aſſumed without proofe: and needs there proof, that <hi>Rome</hi> teacheth theſe doctrines? Let the Replyer de<g ref="char:EOLhyphen"/>ny them if he pleaſe; we ſhall congra<g ref="char:EOLhyphen"/>tulate his abrenunciation of ſuch dan<g ref="char:EOLhyphen"/>gerous errors: but as long as we ſee them taught and practiſed by all the Romiſh-communion, we need not prove what they deny not, being in<g ref="char:EOLhyphen"/>deed
+<pb n="41" facs="tcp:38019:28"/>ſo farre obliged not to deny it, as they are obliged to profeſſe the <hi>Trent</hi>-Canons. To aſſert a partiall apoſtacy, is not to confound it with hereſie; the word implyes <hi>a eceſſe</hi> or <hi>departure from what a Church or Perſon hath ſometimes profeſſed,</hi> which hereſie doth not: he that never acknowledged the truth, cannot apoſtatize from it; but he that heretically maintains opihions deſ<g ref="char:EOLhyphen"/>tructive to the chriſtian faith, may be call'd an heretique, though he were never Orthodox. <hi>Rome</hi> is Apoſtati<g ref="char:EOLhyphen"/>call in all the errors which ſhe now holdeth againſt the truth which ſhe once profeſſed: 'tis not her miſtake only in the truth, but her dereliction of it, when ſhe affirms men to be juſtified <hi>not by faith alone, but by workes alſo:</hi> for this ſhe believed not, but the contrary, when St. <hi>Paul</hi> wrote to her, and taught her the right belief: <hi>Rom:</hi> 3.28. And when St. <hi>Clemens</hi> governed her, as ap<g ref="char:EOLhyphen"/>pears by his Epiſtle to the Corinthians, where he thus writeth, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.
+<pb n="42" facs="tcp:38019:29"/>
+                  <hi>p.</hi> 41.</p>
+               <p>The next thing the Replyer conceiv<g ref="char:EOLhyphen"/>eth him ſelfe concerned in, is to prove that th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s <hi>Enthymem</hi> or argument, <hi>The Pope have fallen by hereſie, therefore the Church of</hi> Rome, is no valid way of reaſoning, and withall an extravagant controverſie, leading to a new diſpute co<g ref="char:cmbAbbrStroke">̄</g>cerning the Popes infalibility <hi>ex Ca<g ref="char:EOLhyphen"/>thedrá:</hi> the Replyer here is much miſta<g ref="char:EOLhyphen"/>ken; ſo if it be demanded, whether the Church of <hi>Rome</hi> ever fell by hereſy, is it not pertinent to prove that ſhe hath ſo fallen, if ſhe be concludeed in the faith of her Biſhops that have ſo fallen elſe ſure tis no ſin, not to believe as the Pope believes, except he firſt juſtifie his faith to the Chriſtian world by ſome better authority then his own Profeſſion Let not therefore this Advocate of the <hi>Trent</hi>-faith think that he replies, when he trifles; and that when he ſaith that he denieth my conſequence, he hath an<g ref="char:EOLhyphen"/>ſwer'd my argument: my reaſon is clear, and I muſt not permit him to fly
+<pb n="43" facs="tcp:38019:29"/>into his obſcure corners to ſhun the e<g ref="char:EOLhyphen"/>vidence of it.</p>
+               <p>Thus then I argue: is it lawfull to diſſent from the Pope, or not? if it be lawfull, why are they cenſured that o<g ref="char:EOLhyphen"/>bey not his decrees? if unlawfull, why are they excuſed that erre not with him, nor are involved in his judgement when he teacheth errors oppoſite to the Chriſtian faith? may not a Proteſtant as lawfully diſſent from the Pope as a Papiſt? but ſure the <hi>Replyer</hi> upon bet<g ref="char:EOLhyphen"/>ter conſideration will change his mind, and (as <hi>Hart</hi> did) in his co<g ref="char:cmbAbbrStroke">̄</g>ference with <hi>Reynolds</hi>) rather (in <hi>deſpite</hi> of all evi<g ref="char:EOLhyphen"/>dence to to the contrary) ſay <hi>the Pope cannot erre,</hi> then plead, <hi>that though he doth, yet the Church is not bound to obey him:</hi> and truly if it be obliged to obey him, how it can ſtand when he falls, I ſee not.</p>
+               <p>'Tis pretended alſo by the <hi>Replyer, that the Church of</hi> Rome <hi>in aſcribing u<g ref="char:EOLhyphen"/>niverſall jurisdiction to the Biſhop of that</hi> See, <hi>is not obnoxious to the fixt Canon of the Councell of</hi> Nice, <hi>and ſo not condem<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ad by a Generall Councell:</hi> to prove this
+<pb n="44" facs="tcp:38019:30"/>he interprets the Canon with a gloſſe that I think deſtroyes the Text. I confeſſe he hath:
+<note n="(c)" place="margin">De Roman Pontifice. lib 2. c. 13.</note> 
+                  <hi>Bellarmine</hi> for his Au<g ref="char:EOLhyphen"/>thor in this expoſition, who having ci<g ref="char:EOLhyphen"/>ted four opinions concerning thoſe words in the Canon, <hi>becauſe this is cuſ<g ref="char:EOLhyphen"/>tomary to the Biſhop of</hi> Rome,)
+<note n="(f)" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. <hi>Quia et Epiſcope Ro<g ref="char:EOLhyphen"/>mano parilis <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>.</hi>
+                  </note> would make the Biſhop of <hi>Rome</hi> the <hi>efficient,</hi> and not the <hi>example</hi> of the Authority granted to the reſt of the Patriarchs in this Canon: ſo that if <hi>Bellarmine</hi> pleaſe, the words in the Canon, <hi>becauſe this is the cuſtome to the Biſhop of Rome,</hi> ſhall import, <hi>becauſe it is the Biſhop of Romes cuſtome to have it ſo,</hi> id eſt, (as the Ca<g ref="char:EOLhyphen"/>non before ſpeaketh) <hi>that</hi> Aegypt, Ly<g ref="char:EOLhyphen"/>bia <hi>and</hi> Pentapolis <hi>ſhould be under the Patriarch of</hi> Alexandria: becauſe the Pope did uſe to be ſo liberall in his Con<g ref="char:EOLhyphen"/>ceſſions to that Biſhop, as to grant him Authority over thoſe Provinces. But why muſt the ſence of <hi>Ruffinus</hi> be reject<g ref="char:EOLhyphen"/>ed, who <hi>Lib.</hi> 1. <hi>C.</hi> 6. of his Eccleſiaſti<g ref="char:EOLhyphen"/>call Hiſtory, ſaith, <hi>that it was decreed by the Councell in this Canon, that the Biſhop of Alexandria ſhould have the Charge of</hi> Aegypt,
+<note n="(g)" place="margin">ſuburbica<g ref="char:EOLhyphen"/>riarum Eccle<g ref="char:EOLhyphen"/>ſiarum.</note> 
+                  <hi>as the Biſhop of</hi> Rome <hi>had the charge of the Citties of his Neighbourhood?</hi>
+                  <pb n="45" facs="tcp:38019:30"/>why muſt the Authority of <hi>Zonaras</hi> and <hi>Balſamon</hi> be deſpiſed, who give the ſame interpretation of the Canon? The Re<g ref="char:EOLhyphen"/>plyer therefore is very bold, when he ſaith, that this ſence of the Canon which I give, is againſt the intention of it, ſeeing I give no other then what theſe and many other men of Iudgment, and Learning have given of it before.</p>
+               <p>Moreover, what a goodly account is given, why this cannot be the Genu<g ref="char:EOLhyphen"/>ine ſence of the Canon? <hi>A Biſhop go<g ref="char:EOLhyphen"/>verning Churches in the Weſt, (ſaith the Replyer) is no reaſon why the Biſhop of</hi> Alexandria <hi>ſhould govern the Churches mentioned in the Canon.</hi> No reaſon (I Confeſſe) efficient, but yet a Morall reaſon it might be, moving the Fa<g ref="char:EOLhyphen"/>thers aſſembled in the Councell to pro<g ref="char:EOLhyphen"/>vide for the Unity of the Church, by like expedient in the Eaſt, as they ſaw it furniſhed with in the Weſt. Take the meaning of the Canon in this ſenſe and the diſcourſe hath nothing in it a<g ref="char:EOLhyphen"/>gainſt the Laws of a legitimate Argu<g ref="char:EOLhyphen"/>mentation, which may out of the Ca<g ref="char:EOLhyphen"/>non thus be framed: <hi>The ancient Cuſ<g ref="char:EOLhyphen"/>tomes
+<pb n="46" facs="tcp:38019:31"/>are to be retained? but that the Patri<g ref="char:EOLhyphen"/>arch of</hi> Alexandria <hi>ſhould govern</hi> Aegypt Lybia, <hi>and</hi> Pentapolis, <hi>is an Ancient Cuſtome,</hi> therefore the <hi>Major</hi> is mani<g ref="char:EOLhyphen"/>feſt from the example of the Biſhop of <hi>Rome,</hi> who (by the right of cuſtome) kept his Authority over the Weſt: the <hi>minor</hi> is evident by experience. The Replyer (I know) likes not the <hi>major;</hi> for he ſaith, that <hi>the Popes Supremacy was alwayes held by the Church of</hi> Rome <hi>and her adhaerents to be of Divine-right;</hi> Alwayes held? <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>; how did this word eſcape him? I appeal to a competent Judge, the Author of the Apoſtolick Conſtitu<g ref="char:EOLhyphen"/>tions (whether <hi>Clemens Romanus</hi> or no, I diſpute not, but I ſuppoſe of authority enough to give his verdict (in point of Fact) for the age wherein he wrote,) doth not he in that forme of Supplica<g ref="char:EOLhyphen"/>tion (extant <hi>lib:</hi> 8. <hi>cap:</hi> 10. of the Con<g ref="char:EOLhyphen"/>ſtitutions) ſufficiently declare, that the Biſhop of of <hi>Rome</hi> had his limits aſwell as other Biſhops?
+<note n="(h)" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. <hi>Co. ſ<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>it. lib.</hi> 8. <hi>c.</hi> 10.</note> 
+                  <hi>Let us pray</hi> (ſaith he) <hi>for the Epiſcopacy of the whole world, and for our Biſhop</hi> James <hi>of</hi> Jeruſalem, <hi>and his Dioceſſe; and for our Biſhap</hi>
+                  <pb n="47" facs="tcp:38019:31"/>Clement <hi>of</hi> Rome, <hi>and his Dioceſſe; and for</hi> Luod us <hi>of</hi> Ant<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>och, <hi>and his Dioceſs.</hi> Let the Replyer he<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e obſe<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ve, that <hi>Cle<g ref="char:EOLhyphen"/>mens</hi> is not prayed for as Biſhop of all the World, but as a Paſtor over his own Limitation.</p>
+               <p>This might further appear from the uſage of the Primitive, Church, the Doctors whereof would not have ſo far forgotten the<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r duty in acknowledging this Supremacy, as to do actions that clearly evince, that they conceived no ſuch thing claimeable by any fair pre<g ref="char:EOLhyphen"/>tentions whatſoever; much leſſe by Divine inſtitution, if it had been al<g ref="char:EOLhyphen"/>wayes claimed by the Church of <hi>Rome.</hi> Would St. <hi>Cyprian</hi> have called Pope <hi>S<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ephen</hi> his Brother, [as he doth in his Epiſtle to <hi>Pompeius,</hi> wherein he char<g ref="char:EOLhyphen"/>geth him (though I confeſſe unjuſtly) for favouring Heretiques] had he eſ<g ref="char:EOLhyphen"/>teemed him the Head of the Church in the ſence that the later times under<g ref="char:EOLhyphen"/>ſtand the word in? would <hi>Firmil arus</hi> the Biſhop of <hi>Coeſarea,</hi> have ſpoken ſo liberally of the ſame <hi>Stephen,</hi> and have charged him with Errors, ignorance,
+<pb n="48" facs="tcp:38019:32"/>pride,
+<note n="(j)" place="margin">Multa pro locoru &amp; no<g ref="char:EOLhyphen"/>minum diver<g ref="char:EOLhyphen"/>ſitate varian<g ref="char:EOLhyphen"/>tur, neque ta men propter hoc ab Eccle<g ref="char:EOLhyphen"/>ſiae Catholicae pace atq, uni<g ref="char:EOLhyphen"/>rate diſceſſum eſt, quod, Ste<g ref="char:EOLhyphen"/>phanus auſus eſt facere rum<g ref="char:EOLhyphen"/>pens a dyer ſum nos pacé, qua<g ref="char:cmbAbbrStroke">̄</g> ſemper ante<g ref="char:EOLhyphen"/>ceſſeres ejus nobiſcu<g ref="char:cmbAbbrStroke">̄</g> amo<g ref="char:EOLhyphen"/>re, &amp; honore mutuo cuſto<g ref="char:EOLhyphen"/>dierunt. Cypr. Epiſt. 74.75.</note> had this perſwaſion of the Pope's Supremacy been currant at that time? would he have charg'd him with ſchiſm in that Epiſtle to <hi>Cyprian,</hi> for denying that communion and concord with <hi>Cy<g ref="char:EOLhyphen"/>prian,</hi> which his Predeceſſors kept in reciprocall love, and mutuall Honour; (which is not properly ſaid of the reſ<g ref="char:EOLhyphen"/>pects between Superiors and Inferiors) had he had any apprehenſion of ſuch a Head-ſhip as the Romaniſts now chal<g ref="char:EOLhyphen"/>lenge to the Pope? no certainly, the Pope was not then eſteemed ſuch as the latter Paraſites have ſtiled him, <hi>à corporall God in the world;</hi> ſuch doctrine may be learned from Cardinall <hi>Jacoba<g ref="char:EOLhyphen"/>ſianus,</hi> the Canon-law, and other wri<g ref="char:EOLhyphen"/>tings which the Fathers age underſtood not: none durſt then be ſo impious as to beſpeak (as an Arch-Biſhop in his Sermon is ſaid to have done) the Pope with ſuch words,
+<note n="(k)" place="margin">Dr. Franc. White his Or<g ref="char:EOLhyphen"/>thodox way juſtified. p. 58.</note> 
+                  <hi>All power is given to thee, both in heaven and earth;</hi> neither knew the piety of the primi<g ref="char:EOLhyphen"/>tive Chriſtianity the language of the Embaſſador of <hi>Panormum</hi> in <hi>Sicilly,</hi> who kneeling before Pope <hi>Martin</hi> cry<g ref="char:EOLhyphen"/>ed unto him three times together,
+<pb n="49" facs="tcp:38019:32"/>
+                  <hi>Thou which takeſt away the ſins of the world, have mercy upon us.</hi> Indeed had they believed him infallible, as ſome later Writers would perſwade the world the Biſhop of <hi>Rome</hi> is, they might then eaſily have admitted his Supre<g ref="char:EOLhyphen"/>macy in the high'ſt acknowledgment of excellency and honour: but this vain conceit was a phanſie that the good Biſhops of <hi>Rome</hi> ne're dreamt off, as may appear by <hi>Liberius</hi> his Epiſtato St. <hi>Athanafius:</hi> for, he requeſteth to be farther confirmed in the Chriſtian faith by the authority of his judgement, that if what he pro<g ref="char:EOLhyphen"/>feſſed, were <hi>Catholique,</hi> he might be the more ſecure by the knowledge of his conſent thereunto. The words are remarkable, extant in the works of <hi>Athanaſius</hi> printed 1600, <hi>ex officina Commeliniana. p.</hi> 397. Having deſcribed the Tenor of his faith in the bleſſed Trinity, in oppoſition to as well <hi>Sabellius</hi> as
+<pb facs="tcp:38019:33"/>
+                  <hi>Arrius,</hi> he adds in his Epiſt:
+<note n="(*)" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> 
+                  <hi>If thou Bro<g ref="char:EOLhyphen"/>ther Athanaſius conſenteſt with me in this confeſſion (which is the true faith in the holy Catholique and Apoſtolick Church) as in the preſence of Gods judge<g ref="char:EOLhyphen"/>ment, and Chriſts, I pray ſubſcribe to it, both that I may be more certain, whether thou art of the ſame perſwaſion with my ſelfe, and alſo that I may conſtantly obſerve thy commands.</hi> Indeed this good Biſhop of <hi>Rome</hi> (as we noted in our firſt Anſwer to the Quaeries, and could further prove out of Saint <hi>Athanaſius</hi> his Epiſtle to thoſe that lived ſoli<g ref="char:EOLhyphen"/>tary lives) by ſad experience found himſelfe far enough from <hi>Infallibi<g ref="char:EOLhyphen"/>lity;</hi> when, overcome with the terror and importunity of the Ar<g ref="char:EOLhyphen"/>rians, he yeilded to a ſubſcription to their Hereſy.</p>
+               <pb facs="tcp:38019:33"/>
+               <p>The Replyer had better have ſaid nothing to the judgement of the Coun<g ref="char:EOLhyphen"/>cell of
+<note n="(l)" place="margin">Concilium Elibertinum i<g ref="char:EOLhyphen"/>magines pingi vetuit, nempe ut idolotriam hoc remedio exting<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>erit. <hi>ſixt. ſenenſ. Bib. lib.</hi> 5. <hi>annot</hi> 247.</note> 
+                  <hi>Eliberis,</hi> then what he doth; at leaſt he might (with greater advan<g ref="char:EOLhyphen"/>tage to his Cauſe) have ſaid that only, which he begins his Reply with, <hi>that the Councell being but a provinciall Aſ<g ref="char:EOLhyphen"/>ſembly, and not Oecumenicall, the Canons of it did not conclude forraigne Churches:</hi> for to pretend that the meaning of the Canon was <hi>to preſerve reverence to the picture,</hi> is as much as to ſay, <hi>that the de<g ref="char:EOLhyphen"/>ſigne in taking the late Uſurper and the reſt of his Complices out of</hi> Weſtminſter-<hi>Abbey, and hanging up their heads over the Parliament houſe, was to advance their dignity. Twas a time of perſecution, &amp; pitty thoſe precious advantages of piety ſhould be defaced by the Heathen;</hi> ſo pre<g ref="char:EOLhyphen"/>tends the Replyer: This he learned perhaps from <hi>Binius,</hi> or
+<note n="(m)" place="margin">Tunc pe<g ref="char:EOLhyphen"/>riculum erat, ne Gentiles exiſtimarent, noſtios adora<g ref="char:EOLhyphen"/>re lignum &amp; la<g ref="char:EOLhyphen"/>pides. Sand. a<g ref="char:EOLhyphen"/>pud Bellar. de Imag. lib. 2. c. 9.</note> 
+                  <hi>Bellarmine,</hi> or <hi>Nicholas Saunders</hi> quoted by the Cardi<g ref="char:EOLhyphen"/>nall, who is not peremptory for this Interpretation neither, but firſt gives
+<pb n="50" facs="tcp:38019:34"/>another reaſon, <hi>(viz.)</hi> leaſt the Hea<g ref="char:EOLhyphen"/>thens ſhould be ſcandalized at the Chriſtians, and ſuppoſe that they wor<g ref="char:EOLhyphen"/>ſhipped ſtocks and ſtones, and con<g ref="char:EOLhyphen"/>cludes with this,
+<note n="(n)" place="margin">Periculum crat in perſe<g ref="char:EOLhyphen"/>cutionibus i<g ref="char:EOLhyphen"/>magines fuiſ<g ref="char:EOLhyphen"/>ſent contume<g ref="char:EOLhyphen"/>lia affectae a perſecutoribus</note> 
+                  <hi>there was danger leſt in time of perſecution, the Images ſhould have been abuſed by the Perſecutors.</hi> But well fare yet a little ingenuity at a dead lift; the Cardinall (overcome with the reaſon in the Canon) confeſſeth that it, doth not much concurre with this Ex<g ref="char:EOLhyphen"/>poſition; and therefore he ſuppoſeth, that it was rather, <hi>left the Walls moul<g ref="char:EOLhyphen"/>dering away, or coming to ruine, the Saints honour ſhould be eclipſed by ſuffer<g ref="char:EOLhyphen"/>ing corruption.</hi>
+               </p>
+               <p>But the truth is, neither of theſe rea<g ref="char:EOLhyphen"/>ſons are of much moment to reduce ſuch Images into the Church, as they baniſhed out of it; for we are ſtill in
+<pb n="51" facs="tcp:38019:34"/>perill of giving candall by <hi>Pictures,</hi> and <hi>Image-worſhip,</hi> to the Jew, to the Turke, and to many Chriſtians: and I thinke we are not attained yet to ſuch a perfection of Church-building, but that the walls may fail in the beſt Tem<g ref="char:EOLhyphen"/>ples; and therefore the reaſon conti<g ref="char:EOLhyphen"/>nuing, why is not the Canon obliging? I ſuppoſe <hi>Bellarmine</hi> might lay the leſſe weight on this reaſon, when he caſt his eye on the
+<note n="*" place="margin">Admonere placuit fideles ut quantum poſſint prohi<g ref="char:EOLhyphen"/>beant ne idola in domibus ſu<g ref="char:EOLhyphen"/>is habeant ſi vero vini me<g ref="char:EOLhyphen"/>tuunt ſervoru<g ref="char:cmbAbbrStroke">̄</g>, velſcripſes pu<g ref="char:EOLhyphen"/>ros conſervent ſilnon ſecetint alieni ab Ec<g ref="char:EOLhyphen"/>cleſiâ habean<g ref="char:EOLhyphen"/>tur, Concil. Elib. Can. 41.</note> 41 Canon of this very Councell, where <hi>Images are forbidden to be uſed in private houſes:</hi> there the walls are not only better ſecured from the rudeneſſe of Perſecutors, but alſo from the neglect of reparation, whereby publique buildings uſually ſuffer no ſmall decay: And the cloſe of this 41 Canon, eſtabliſheth <hi>the rejection of all Idolls,</hi> though the ſervants in the fami<g ref="char:EOLhyphen"/>ly might mutiny for their preſervation.</p>
+               <p>But the authority was but ſlender, a Provinciall Councell, and that but of 19 Biſhops: Hence the Replyer con<g ref="char:EOLhyphen"/>ceiveth it not pertinently urged, be<g ref="char:EOLhyphen"/>cauſe <hi>the Quaries demand the cenſure of a Generall Councell.</hi> I know the Cardi<g ref="char:EOLhyphen"/>nall
+<pb n="52" facs="tcp:38019:35"/>doth upon this account deminiſh the Authority of the Fathers there aſſe<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>bled, but yet it plainly hence appears, that (reſtore the Canon to its <hi>genuine</hi> ſence, and) it declares the preſent prac<g ref="char:EOLhyphen"/>tice of the Roman-Church not to have been univerſally received, nay to have receiv'd a check by Men, (though fewer in number, then have met in follow<g ref="char:EOLhyphen"/>ing Synods, yet) reverenced for their antiquity, being aſſembled 20 years before the Generall Councell at <hi>Nice,</hi> and therefore to be had in eſtimation for their age. And though <hi>Baronius</hi> in paſſion had accuſed this Councell of ſeeming vicinity to Novatianiſme; yet conſidering that
+<note n="(o)" place="margin">Cùm quae ab illís de eâ reſunt ſtatuta ab innocentio Rom: Pontifice excutentur, nemo ſit qui accuſare prae<g ref="char:EOLhyphen"/>ſumat.</note> Pope <hi>Innocent</hi> had acquitted them, that met there, he would have none to preſume to accuſe them; upon which words <hi>Binius</hi> con<g ref="char:EOLhyphen"/>cludeth, that <hi>Baroniues</hi> though,
+<note n="*" place="margin">Eam ſyno<g ref="char:EOLhyphen"/>dum legitima<g ref="char:cmbAbbrStroke">̄</g> eſſe ab omni ecrote liberam</note> 
+                  <hi>that this Synod was lawfull and free from error?</hi>
+               </p>
+               <p>As for the impertinency of alledging a Provinciall, when an Oecummenicall councell was demanded, let not the Replyer forget what the Quaeries pro<g ref="char:EOLhyphen"/>pound, and the anſwer will be proper
+<pb n="53" facs="tcp:38019:35"/>enough: for it was not only required: <hi>by what General Councell hath</hi> Rome <hi>been condemned;</hi> but alſo <hi>by what Authority was ſhe otherwiſe reproved?</hi> a Provinci<g ref="char:EOLhyphen"/>all Synod hath authority, (inferior in<g ref="char:EOLhyphen"/>deed to that of a Generall Councell, but yet) ample enough to checke the pretences of any new Doctrine, that is defended as <hi>Catholique;</hi> for what hath been cenſured, (though but by a provin<g ref="char:EOLhyphen"/>ciall Aſſembly) ſo early in the Church, cannot lay claime to that known <hi>Cha<g ref="char:EOLhyphen"/>racter</hi> of <hi>Chatholiciſme</hi> in <hi>Vincentius Ly<g ref="char:EOLhyphen"/>rinenſis;</hi> who admits not that to be ſuch
+<note n="(p)" place="margin">In ipſà Ca<g ref="char:EOLhyphen"/>tholicâ Eccle<g ref="char:EOLhyphen"/>ſiâ magnovere curandum eſt, ut id teneamus quod ubique quod ſemper, quod ad emni<g ref="char:EOLhyphen"/>bus reditum eſt adverſ: hae<g ref="char:EOLhyphen"/>res. c. 3.</note> 
+                  <hi>which was not taught in all places, at all times, and by all Chriſtians:</hi> and therefore that muſt needs be deſtitute of <hi>Univerſality, Antiquity,</hi> and <hi>Conſent,</hi> that was diſapproved by the Fathers of the Councel of <hi>Eliberis;</hi> which may be eſteemed the more for <hi>Hoſius's</hi> ſake, (a conſtant man againſt Idolatry,) who ſate afterwards in the firſt Councel of <hi>Nice,</hi> and was as devout in his conver<g ref="char:EOLhyphen"/>ſation, as his
+<note n="(q)" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. <hi>Phot. Ep. p.</hi> 3.</note> name importeth (as <hi>Phoſius</hi> obſerveth) keeping his confeſſi<g ref="char:EOLhyphen"/>on undefiled from Idol-worſhip: more<g ref="char:EOLhyphen"/>over what veneration Pope <hi>Innocent's</hi>
+                  <pb n="54" facs="tcp:38019:36"/>approbation gave this Aſſembly, the Replyer (I ſuppoſe) will not think that any cenſure of his can take away.</p>
+               <p>The Replyer complaineth that proof is not made, that the ſeco<g ref="char:cmbAbbrStroke">̄</g>d Nicene Coun<g ref="char:EOLhyphen"/>cell was not univerſally received; what proof more Authentique, then the Au<g ref="char:EOLhyphen"/>thority of the Synods of <hi>Eliberis,</hi> and <hi>Frankford,</hi> alledged by me; I have gi<g ref="char:EOLhyphen"/>ven an accompt of the firſt already, and for that of <hi>Frankford,</hi> this <hi>puiſne</hi> Reply<g ref="char:EOLhyphen"/>er preſumes (I ſuppoſe without the Ly<g ref="char:EOLhyphen"/>cenſe of his Superiors) to ſay, <hi>that it neither rejects nor refutes the Nicent Canons, but concurrs with the Nicent Councel, that gives (though not</hi> Latriam <hi>yet</hi>) honorariam adorationem, <hi>an honorary adoration to Pictures.</hi>
+               </p>
+               <p>Two things are to be rejoyn'd t<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> this reply: 1. That the Replyer's miſta<g ref="char:EOLhyphen"/>ken in ſaying that the <hi>Frankford</hi> Fa<g ref="char:EOLhyphen"/>thers rejected not the Nicene Canon<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> concerning <hi>Image-worſhip:</hi> and ſecond<g ref="char:EOLhyphen"/>ly that the Nicene Canons eſtabliſh<g ref="char:EOLhyphen"/>ing an <hi>Inferiour adoration to be given to pictures,</hi> were not <hi>Cathelique Sanctions.</hi>
+               </p>
+               <p>
+                  <pb n="55" facs="tcp:38019:36"/>
+As to the Firſt, it is evident, that the Replyer oppoſeth the judgment al<g ref="char:EOLhyphen"/>well of <hi>Bellarmine,</hi> as of <hi>Baronius,</hi> when he ſaith, <hi>That the Fathers at Frankford rejected not the Canons of Nice:</hi> Let him turne to his <hi>Binius,</hi> and there he ſhall find, that they both were miſtaken in thinking that theſe Councels claſhed, but yet that they thought ſo. What ſtrength the Reaſons of <hi>Binius</hi> carry a<g ref="char:EOLhyphen"/>gainſt theſe two Cardinals, I ſhall not enquire; Sure I am, that if <hi>Baronius</hi> be miſtaken in his Opinion in this caſe, he deſerves little credit in other of his aſſertions. For he affirmeth himſelf ſo farre from doubting of it,
+<note n="(r)" place="margin">
+                     <hi>Tantum abeſt, ne negemus Nicaenam ſecun<g ref="char:EOLhyphen"/>dam Synodum, eandemque ſepti<gap reason="illegible" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> Oecnmenicam dictam damnatam dici in Fran<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> of urdienci Concilio, ut etiam augeamus nu<g ref="char:EOLhyphen"/>merum teſtium id profi<g ref="char:EOLhyphen"/>tentium, &amp; quidem haud dubiae fidei, aut autorita<g ref="char:EOLhyphen"/>tis.</hi> Baron. Tom. 9. p. 539 An. Chr. 794. n. 27.</note> 
+                  <hi>That he ſolemnly pro<g ref="char:EOLhyphen"/>feſſeth,</hi> (by undeniable teſt<g ref="char:EOLhyphen"/>monies) <hi>to put it beyond all queſtion,</hi> and ſo he doth, as hath been lately obſerv<g ref="char:EOLhyphen"/>ed by reverend and learned Dr. <hi>Hammond</hi> out of <hi>Wa<g ref="char:EOLhyphen"/>lafridus, Strabo, Amalarius, Finimarus, A<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aſtatius,</hi> and many others. If theſe two learned Romaniſts have not in this caſe reputation
+<pb n="56" facs="tcp:38019:37"/>enough to ſatisfie the Replyer, I could ſend him to better witneſſes; to the <hi>Annalls</hi> (ſet forth by <hi>Py<g ref="char:EOLhyphen"/>thaus,</hi>
+                  <note n="(s)" place="margin">
+                     <hi>Synodus habitu in</hi> Franconofu<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t, <hi>in quâ hae<g ref="char:EOLhyphen"/>reſis foeliciana coram E<g ref="char:EOLhyphen"/>piſcopis Germanorum, &amp; Germaniarum, &amp; Gal liarum, Italorumque praeſente magno Principe</hi> Carolo, <hi>&amp; miſſis,</hi> Adriani <hi>Apoſtolini Thcophylacto &amp;</hi> Stephano <hi>Epiſcopis tertio danata eſt</hi> — Pſeu<g ref="char:EOLhyphen"/>do-<hi>Synodus Graecorum, pro adorandis imaginibus ha<g ref="char:EOLhyphen"/>bita, &amp; falſo ſeptima vo<g ref="char:EOLhyphen"/>cata ab Epiſcopis da<g ref="char:cmbAbbrStroke">̄</g>natur.</hi> Chamler de imag: To: 2. lib. 21. c. 14. p. 855.</note> where it is ſaid, that in the year 594 <hi>there was a Synod called at</hi> Fra<g ref="char:cmbAbbrStroke">̄</g>k<g ref="char:EOLhyphen"/>ford, <hi>where</hi> Foelix <hi>was con<g ref="char:EOLhyphen"/>demned, and the</hi> Pſeudo-<hi>Synod of the Greeks</hi> (that eſtabliſhed Image-wor<g ref="char:EOLhyphen"/>ſhip, being falſely called the ſeventh,) <hi>is cerſured by the Biſhops:</hi> So the life of <hi>Charles</hi> the Great, publiſhed by the ſame <hi>Py<g ref="char:EOLhyphen"/>thaeus:</hi> ſo <hi>Ado,</hi> and others <hi>G. Caſsander</hi> in his 29 E<g ref="char:EOLhyphen"/>piſtle to <hi>John Molinaeu<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> gives him an ample ac<g ref="char:EOLhyphen"/>count of the 4 Books written by the authority and under the name of <hi>Charles</hi> the French King (the whole Councell of <hi>Frankford</hi> conſenting to the con<g ref="char:EOLhyphen"/>tents of them) which were ſent to the Pope againſt the decrees of the Coun<g ref="char:EOLhyphen"/>cell of <hi>Nice:</hi> It were the beſt courſe for the Replyer to do as the reſt of his
+<pb n="57" facs="tcp:38019:37"/>Maſters doe in this diſpute, I mean, not to ſay, that the Aſſemby of <hi>Frank<g ref="char:EOLhyphen"/>forde</hi> did not oppoſe the Fathers of <hi>Nice;</hi> but to under-value the Authority of that Councell, as confronting (with<g ref="char:EOLhyphen"/>out juſt Authority) the Canons of the ſecond Nicene, which (they ſay) was a <hi>Generall,</hi> whereas this of Frankford was but a Nationall Synod.</p>
+               <p>I come therefore to the ſecond thing that I propounded above, to prove (I mean) <hi>that the Canons of the</hi> 2d. <hi>Nicene Councell were not Catholique Sanctions;</hi> that is, <hi>the Canons that give religious worſhip to images, were not rules of ſound and wholeſome doctrine:</hi> In this enquiry I queſtion neither the number, nor the power of ſuch as either called this Aſ<g ref="char:EOLhyphen"/>ſembly, or came to it, though there lye a great prejudice againſt Councell oppo<g ref="char:EOLhyphen"/>ſed by not a few of the Greeks, and by almoſt all the Weſt: the Councell of <hi>Ariminum</hi> was ſubſcribed by all the Patriarchs, yea by the Pope himſelfe yet was of no Authority, but of perpe<g ref="char:EOLhyphen"/>tuall infamy, through all ages after in the Church, becauſe it eſtabliſhed Ari<g ref="char:EOLhyphen"/>aniſme.
+<pb n="58" facs="tcp:38019:38"/>What therefore St. <hi>Auguſtine</hi> ſaid in his diſpute with <hi>Maximinus</hi> the Arrian Biſhop, when the firſt Nicene Councell might be pleaded for the Ca<g ref="char:EOLhyphen"/>tholiques, as the Councell of <hi>Ariminum</hi> was for the Arrians, that may I ſay in the preſent controverſy, as to the ſecond Nicene and the Councell of <hi>Frankford
+<note n="(t)" place="margin">Nec ego Nicenum, nec tu debes Ari<g ref="char:EOLhyphen"/>minenſe tan<g ref="char:EOLhyphen"/>quam praedi<g ref="char:EOLhyphen"/>caturus pro<g ref="char:EOLhyphen"/>ferre Concili<g ref="char:EOLhyphen"/>um: nec ego hujus authori<g ref="char:EOLhyphen"/>tate, nec tu il<g ref="char:EOLhyphen"/>lius detineris; ſcripturarum authoritatibus non quoru<g ref="char:cmbAbbrStroke">̄</g>que propriis ſed u<g ref="char:EOLhyphen"/>tri<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> commu<g ref="char:EOLhyphen"/>nibus teſtibus, resi cum re, cauſa cum cau<g ref="char:EOLhyphen"/>lâ, ratio cum ratione con<g ref="char:EOLhyphen"/>certer. Aug. con. Maxim. Arian. Epiſc. lib. 3. p. 733.</note> neither am I concluded with the Au<g ref="char:EOLhyphen"/>thority of this, nor thou with that; let matter with matter, cauſe with cauſe, rea<g ref="char:EOLhyphen"/>ſon with reaſon conteſt by the Authority of the Scriptures, which are witneſſes proper to neither parties, but common to both.</hi>
+               </p>
+               <p>If then we appeale to the Scriptures, what more clear then the voice of God on Mount <hi>Sinai, Exo:</hi> 28.48. <hi>Thou ſhalt not make unto thy ſelfe any graven image, or any thing, that is in heaven a<g ref="char:EOLhyphen"/>bove, or that is in the earth beneath, or that is in the water under the earth: thou ſhalt not bow down thy ſelfe to them, nor ſerve them. &amp;c.</hi> This ſervice God re<g ref="char:EOLhyphen"/>ſerves to himſelfe, (as we are taught, <hi>Deut:</hi> 6.13.) excluſively to all crea<g ref="char:EOLhyphen"/>tures, as we are informed by Chriſts recitation, and weighty interpretation
+<pb n="59" facs="tcp:38019:38"/>of the place, <hi>Math:</hi> 4.10. <hi>Thou ſhalt worſhip the Lord thy God, and him only ſhalt thou ſerve. and Exo:</hi> 34.14. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>thou ſhalt wor<g ref="char:EOLhyphen"/>ſhip no other God.</hi>
+               </p>
+               <p>The Papiſts here betake themſelves to the diſtinction of <hi>Latria</hi> and <hi>Dulia: none but God muſt be worſhipped by the firſt but the ſecond may be imparted to Saints and Angells.</hi> The Replyer may learn (if he know not) that the chief words uſed by the Greek writers in the Scripture (aſwell the ſeptuagint in the Old, as the Evangeliſts and the Apoſtles in the new Teſta<g ref="char:cmbAbbrStroke">̄</g>ent) are <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, and that theſe words are all uſ'd promiſcuouſly, as well for <hi>religious</hi> and <hi>divine,</hi> as for <hi>civill worſhip:</hi> even <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> is uſed for civill worſhip to man, <hi>De:</hi> 28.48. the ſeptuagint read <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, and <hi>Acts</hi> 20.19. St. <hi>Paul</hi> is ſaid <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>: and the ſame St. <hi>Paul</hi> maketh it the unhappi<g ref="char:EOLhyphen"/>neſſe of the Galathians, that they did ſometimes give <hi>Dulia</hi> to what were not Gods, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>: whereby we may ſee that <hi>Dulia</hi> (if it
+<pb n="60" facs="tcp:38019:39"/>be religious worſhip) ought not to be given to ſuch as partake not of divine nature; but Divines ſhould not contend about words: <hi>the Catholiques agree</hi> (and I think the <hi>Papiſts</hi> cannot deny it) <hi>that the worſhip of God is diſtinguiſhed from the worſhip of men in this, that the one is religious, and the other civill:</hi> The firſt an <hi>Elicite</hi> Act of religion, as the Schools ſpeak: the ſecond an <hi>imperate,</hi> flowing from it, as the effect from the cauſe; both of them ſpecies of Juſtice, as <hi>Lactantius</hi> hath excellently obſerved:
+<note n="(u)" place="margin">Primum juſticize officiu<g ref="char:cmbAbbrStroke">̄</g> eſt conjungi cum Deo, ſe<g ref="char:EOLhyphen"/>cundum cum homine: ſed illud primum religio dicitur, hoc ſecundum miſcricordia, vel humanitas dicitur. Lact<g ref="char:EOLhyphen"/>lib. 6. c. 10.</note> 
+                  <hi>The firſt Office of Juſtice is to be joy<g ref="char:EOLhyphen"/>ned with God; the ſecond with man: That firſt is called Religion, this ſecond Mercy, or Humanity,</hi> Well then, admit the diſtinction of worſhip according to the <hi>difference</hi> firſt innocently aſſigned by St. <hi>Auguſtine</hi> into <hi>Dulia</hi> and <hi>Latria;</hi> we ſcruple it not, as long as thoſe words are granted to be names of worſhip, differing not only in <hi>degree,</hi> but in <hi>kind</hi> or <hi>nature:</hi> for (ſeeing the Honour that we pay unto any Object, ought to be proportionable to the excellency of that Object) there muſt of neceſſity be the ſame diſtance between <hi>Divine
+<pb n="61" facs="tcp:38019:39"/>Worſhip,</hi> and <hi>Humane</hi> or <hi>Civil,</hi> that there is between <hi>God</hi> and <hi>Man:</hi> But in truth there is no Proportion between <hi>God</hi> and <hi>man,</hi> and therefore neither ought there to be between <hi>Divine</hi> and <hi>Civill</hi> Worſhip.
+<note n="(w)" place="margin">
+                     <hi>Colimus Martyres eo cultus dilectionis, &amp; ſocietatis quo &amp; in hâc vita coluntur, ſancti Ho<g ref="char:EOLhyphen"/>mines Dei, quorum Corad ta<g ref="char:EOLhyphen"/>lem pro Evangelicâ veritate paſſionem paratum eſſe ſentimus ſed illos tanto devotius quantò ſecurius poſtincerta o<g ref="char:cmbAbbrStroke">̄</g>nia ſupera<g ref="char:EOLhyphen"/>ta quanto etiam fidentiore laude praedicamus jam in vita faelici<g ref="char:EOLhyphen"/>ore victores, quám in iſta adhuc pugnantes: at illo cultu quae Gracè latria dicitur, latinè un<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> verbo dici non poteſt, cum fic quaedam proprie divinitati de<g ref="char:EOLhyphen"/>bita ſervitus, nec colimus, nec colendum docemus niſi unu<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Deum.</hi> Auguſt. <hi>contr. Fauſt. Manich.</hi> Lib. 20. C. 21. <hi>(Et mox) longè minoris eſt pec<g ref="char:EOLhyphen"/>cati ebrium redire à martyri<g ref="char:EOLhyphen"/>bus, quàm vel je junum ſacrifi<g ref="char:EOLhyphen"/>care martiribus dixi, non ſacri<g ref="char:EOLhyphen"/>ficare Deo in memoriis marty<g ref="char:EOLhyphen"/>rum, quod frequentiſſimè faci<g ref="char:EOLhyphen"/>mus, illo duntaxat ritu, quo ſibi ſacrificari novi Teſtamenti manifeſtatione praecepit, quod pertinet ad illum cultum quae Latria dicitur, &amp; uni Deo debetur.</hi>
+                  </note> St. <hi>Auguſt:</hi> there<g ref="char:EOLhyphen"/>fore that gave the firſt riſe to the diſtinction of <hi>Latria</hi> from <hi>Dulia,</hi> did not admit <hi>Dulia</hi> to be a <hi>religious</hi> Wor<g ref="char:EOLhyphen"/>ſhip above <hi>civill</hi> wor<g ref="char:EOLhyphen"/>ſhip, ſuch as is given to living men, though he acknowledgd it an higher degree of <hi>Du<g ref="char:EOLhyphen"/>lia,</hi> that we give to the dead, then what we give to the <hi>living,</hi> becauſe we honour them after their vic<g ref="char:EOLhyphen"/>tory, more ſecurely. But the Papiſts con<g ref="char:EOLhyphen"/>ceive the<g ref="char:cmbAbbrStroke">̄</g>ſelves under the notion of <hi>Dulia,</hi> priviledg'd to conſe<g ref="char:EOLhyphen"/>crate Altars, Tem<g ref="char:EOLhyphen"/>ples,
+<pb n="62" facs="tcp:38019:40"/>Chappells to Saints, all which St. <hi>Auguſt:</hi> judged to appertaine to <hi>Latria;</hi> and ſpeak<g ref="char:EOLhyphen"/>ing of the exceſſe of Chriſtians, that were intemperate in the celebration of the Feſtivalls of the Mar<g ref="char:EOLhyphen"/>tyrs, he blames the Luxurie of ſuch as were guilty, but yet acknowledgeth it a crime far leſſe then the Idolatry of ſuch as with faſting ſacrificed, though even to the Martyrs themſelves. This devout Father would have deteſted the abuſe of his own deſtinction into <hi>La<g ref="char:EOLhyphen"/>tria</hi> and <hi>Dulia,</hi> and much more abhor'd the doctrine of
+<note n="(x)" place="margin">Aquin: p. 3. queſt. 25 Art. 3.4.</note> 
+                  <hi>Aquinas</hi> and other moderne Romaniſts, <hi>(Who teach that the Image and the Groſſe of Chriſt are to be adored with the ſame worſhip that Chriſt is adored with himſelfe,</hi> id eſt, with <hi>La<g ref="char:EOLhyphen"/>tria, in its full extent,)</hi> had he lived to to ſee it;
+<note n="(y)" place="margin">Greg. de Valent. lib. 3. de Idolat. c. 5. apud Reynold. de Idolat. Ec<g ref="char:EOLhyphen"/>cleſiae. Rom. lib. 1. c. 1.</note> which <hi>veneration</hi> when <hi>Greg. de Valentia</hi> obſerved could not be attri<g ref="char:EOLhyphen"/>buted to a Creature without <hi>Idolatry,</hi> he ſpake plainly, <hi>that ſome kind of Ido<g ref="char:EOLhyphen"/>latry was lawfull:</hi> The <hi>Replyer</hi> grants,
+<pb n="63" facs="tcp:38019:40"/>
+                  <hi>that the Church of</hi> Rome <hi>were ſuffici<g ref="char:EOLhyphen"/>ently condemned,</hi> (though not by a <hi>Gene<g ref="char:EOLhyphen"/>rall Councell</hi>) <hi>if the diffuſive body of the Church did condemne her:</hi> and this were eaſy to demonſtrate from the firſt Ages of the Church, which owned none of thoſe doctrines, that the Papiſts at this day maintaine againſt the Catholicks all the world over, out of their own Communion. Is it not evident by St. <hi>Cyprian,</hi> 63. <hi>Epiſt.</hi> that the people re<g ref="char:EOLhyphen"/>ceived the <hi>Cup,
+<note n="(z)" place="margin">Quorum quidem vel ignorantèr, vel ſimplici<g ref="char:EOLhyphen"/>tèr in calice Domino ſanctificando &amp; plaebi ad<g ref="char:EOLhyphen"/>miniſtrando, non hoc fa<g ref="char:EOLhyphen"/>ciunt quod Ieſus Chriſtu<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Dominus &amp; Deus noſter ſacrificii hujus, Author &amp; Doctor fecit, &amp; docuit religioſum paritèr, &amp; ne<g ref="char:EOLhyphen"/>ceſtarium duxi de hoc ad vos literas facere. Cipt. Ep. 63. ad Coecilum.</note> Becauſe ſome either out of Ignorance or Simplicity doe not that in conſecrating the Eucha<g ref="char:EOLhyphen"/>riſticall Cup, and adminiſtring it to the people,</hi> (mark, no halfe communion ſerved the people in that holy Biſhops dayes) <hi>which Jeſus Chriſt our Lord and God, the Author and Teach<g ref="char:EOLhyphen"/>er of this ſacrifice, did and taught, therefore I accounted it both a matter of religion and neceſſity to write to them concerning this buſineſſe.</hi>
+               </p>
+               <p>And is it not as clear by St. <hi>Aug.</hi> that the opinion of <hi>Trans-ſubſtantiation</hi> was not own'd in his dayes, heare him
+<pb n="64" facs="tcp:38019:41"/>ſpeaking againſt the corporall eating of Chriſt in the Sacrament, (now ſo ſhame<g ref="char:EOLhyphen"/>fully defended by the Romaniſts) in his Expoſition of the 98. <hi>Pſal.</hi> for (in treating of Chriſts words in the 6. <hi>Cap.</hi> of St. <hi>John,</hi> and the miſtake of ſuch as tooke his Speech, as the <hi>Trent</hi>-faith now doth) he ſaith, (expounding Chriſts words in his own Perſon that ſpake them)
+<note n="(a)" place="margin">Spiritualiter intelligite quod locutus ſum, non hoc Corpus quod videtis, mandu<g ref="char:EOLhyphen"/>caturi eſtis, &amp; bibituri illum fanguinem quem fuſuri ſunt, qui me crucifigent: Sacra<g ref="char:EOLhyphen"/>mentum aliquod vobis com<g ref="char:EOLhyphen"/>mendavi, ſpiritualter intel<g ref="char:EOLhyphen"/>lectu<g ref="char:cmbAbbrStroke">̄</g> vivificabit vos, etſi ne<g ref="char:EOLhyphen"/>ceſſe eſt illnd viſibiliter cele<g ref="char:EOLhyphen"/>brari oportet tamen inviſibi<g ref="char:EOLhyphen"/>liter intelligi. Aug. in Pſ. 98 pag. 1105. edit froben.</note> 
+                  <hi>Underſtand ſpiri<g ref="char:EOLhyphen"/>tually, that which I have ſpoken unto you, you are not to eat the Body which you ſee, nor to drink that Blood, which they will ſhed, who will crucifie me: I have com<g ref="char:EOLhyphen"/>mended a certaine Sacrament unto you, being ſpiritually underſtood, it will quicken you; though it be neceſſary, that it be viſibly celebrated; yet it is be<g ref="char:EOLhyphen"/>hovefull, that it be inviſibly conceived.</hi> Doth not St. <hi>Ambroſe</hi> as plainly teach, that what mutation is wrought by con<g ref="char:EOLhyphen"/>ſecration, is myſticall; and not ſuch as the Romaniſts fancy, <hi>groſſe</hi> and <hi>corpo<g ref="char:EOLhyphen"/>poreall?</hi> when ſpeaking of the operative vertue of Chriſts words, he ſaith.
+<pb n="65" facs="tcp:38019:41"/>
+                  <note n="(b)" place="margin">
+                     <hi>Si</hi> tanta vis eſt in ſer<g ref="char:EOLhyphen"/>mone Domini leſu, ut incipe<g ref="char:EOLhyphen"/>rent eſſe quae no<g ref="char:cmbAbbrStroke">̄</g> erant qua<g ref="char:cmbAbbrStroke">̄</g>
+                     <g ref="char:EOLhyphen"/>tò magis ope<g ref="char:EOLhyphen"/>ratorius eſt, ut fint quae crant, &amp; in aliud co<g ref="char:cmbAbbrStroke">̄</g>
+                     <g ref="char:EOLhyphen"/>mutentur. Ambr. l. 4. de Sacr. c. 4.</note> 
+                  <hi>If therefore there be ſo great efficacie in the ſpeech of the Lord Jeſus, that thoſe things which were not</hi> (by vertue thereof) <hi>ſhould begin to be; how much more effectu<g ref="char:EOLhyphen"/>all is it to cauſe the things that were to be, and yet to be changed into ſomewhat elſe?</hi> id eſt, <hi>to continue naturally what they were before the conſecration, and yet alſo after the conſecration (Myſtically and Sa<g ref="char:EOLhyphen"/>cramentally) to become the body and blood of Chriſt:</hi> which place in St. <hi>Ambroſe</hi> was ſo diſtaſtefull to thoſe of the new faith in the <hi>Romiſh-communion,</hi> that whereas ſome of them beat their brains in finding away <hi>how to make the Bread, and Wire in the Sacrament like the beaſt in the</hi> Revelation,
+<note n="*" place="margin">Revel. 17.8.</note> 
+                  <hi>that was, and is not and yet is:</hi> others (as the late reverend Primate of <hi>Ireland</hi> obſerv'd in his anſ. to the <hi>Jeſuits challenge,</hi> p. 14.) tooke a ready courſe to untye the <hi>Gordian</hi> knot by paring cleane away in their <hi>Roman Edition</hi> (followed alſo in that of <hi>Paris Anno</hi> 1603.) thoſe words that ſo much troubled them, and letting the reſt run ſmoothly after this manner,
+<note n="*" place="margin">Quantò ma<g ref="char:EOLhyphen"/>gis operatori<g ref="char:EOLhyphen"/>us eſt, ut quae erant, in aliud commutentur.</note> 
+                  <hi>how much more is the ſpeech of the Lord powerfull to make, that thoſe things which were,
+<pb n="66" facs="tcp:38019:42"/>ſhould be changed into another thing.</hi>
+               </p>
+               <p>To this purpoſe alſo ſpeaks St. <hi>Cyprian</hi> in the fore-cited Epiſtle,
+<note n="(c)" place="margin">Invenimus calicem mix tu<g ref="char:cmbAbbrStroke">̄</g> ſuiffe, quem Dominus ob<g ref="char:EOLhyphen"/>tulit, &amp; vinu<g ref="char:cmbAbbrStroke">̄</g> ſuiſſe, quod fanguinem fn<g ref="char:EOLhyphen"/>um dixit, Cyp. Epiſt. 65.</note> 
+                  <hi>we find that the Cup was mixed,</hi> [the epiſtle was wri<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> againſt the <hi>Aquarii,</hi> that celebrated the <hi>Euchariſt</hi> with water alone] <hi>which the Lord offered and that it was Wine, which he called his Blood.</hi> St. <hi>Iraeneus</hi> lived not farre from the Apoſtolicke times, and he clearly aſſerteth <hi>the ſubſtance of bread to continue in the Euchariſt after the conſecration;</hi> for thus he writeth con<g ref="char:EOLhyphen"/>cerning that Myſterie;
+<note n="(d)" place="margin">Quemadmodum qui eſt â terrâ panis, perci<g ref="char:EOLhyphen"/>piens vocationem Dei jam non communis panis eſt, ſed Euchariſtia ex duabus rebus conſtans terrenâ, &amp; coeleſti: ſic &amp; corpora noſtra ſpercipi<g ref="char:EOLhyphen"/>entia Euchariſtiam, jam non ſunt corruptibilia, ſpem reſurrectionis ha<g ref="char:EOLhyphen"/>bentia. Iren: Lib. 4. C. 34.</note> 
+                  <hi>As the Earthly bread by the inſtitution or com<g ref="char:EOLhyphen"/>mand of God, is not now common bread, but the Euchariſt con<g ref="char:EOLhyphen"/>ſiſting of two things, an Earth<g ref="char:EOLhyphen"/>ly, and an Heavenly, ſo our Bo<g ref="char:EOLhyphen"/>dies receiving the Euchariſt, are not now corruptible, having hope of the Reſurrection.</hi>
+               </p>
+               <p>When therefore we meet with expreſſion in the Fathers, that ſeem to imply a <hi>Trans-ſubſtantiation,</hi> they are nothing, but a <hi>Catachreſis,</hi> an abuſe of words, or hyperbolicall elevations, familiar to all
+<pb n="67" facs="tcp:38019:42"/>ſorts of Writers, &amp; not unuſuall among the Ancients, when they ſpeak of the o<g ref="char:EOLhyphen"/>ther Sacrament of Baptiſme, as hath been largely prov'd by the late learned and Reverend Biſhop of <hi>Dureſme.</hi> If <hi>Juſtin</hi> and <hi>Iraeneus</hi> ſay of the <hi>Euchariſt, that it is no longer</hi> (after the conſecrati<g ref="char:EOLhyphen"/>on) <hi>common bread</hi> St. <hi>Chriſſeſt. and Greg: Nuſſen</hi> ſay alſo of Baptiſme, <hi>Non eſt aqua communis;</hi> it is not common wa<g ref="char:EOLhyphen"/>ter: and <hi>Cyril</hi> of <hi>Alexandria</hi> expreſly uſeth the word <hi>tranſ-elementated;</hi> by the efficacy of the ſpirit, the ſenſible water <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, is changed into another element. It appears hence, that the Fathers condemned the preſent judge<g ref="char:EOLhyphen"/>ment of the Roman-Church, as to the above-named controverſies between the Catholiques of the Reformed Churches, and the Papiſts in the Ro<g ref="char:EOLhyphen"/>man ſeparation, who divided them<g ref="char:EOLhyphen"/>ſelves from the Communion of the Pri<g ref="char:EOLhyphen"/>mitive profeſſion, before the Proteſtants departed from them, or rather were forced and driven from them.</p>
+               <p>As to my aſſertion, <hi>ſchiſme is theirs who cauſe it;</hi> he thinkes to ſay only, <hi>let
+<pb n="68" facs="tcp:38019:43"/>that paſſe,</hi> a valid confutation! and ex<g ref="char:EOLhyphen"/>cepts againſt my inſtance, when I ſay <hi>when the Orthodox departed from the Ar<g ref="char:EOLhyphen"/>rians, the heretiques made the ſchiſm<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> This is contrary (as he pretends) to 1 <hi>Jo:</hi> 2.19. who ſpeaking of certain he retiques, ſaith, <hi>exierunt a nobis; whic<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> if true,</hi> (ſaith he) <hi>then the Orthodox w<gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> the Arrtans and Heretiques; and t<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Arrians and the Heretiques were Ortho<g ref="char:EOLhyphen"/>dox.</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>! This <hi>acute</hi> Replyer is able to peirce the eye<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of a <hi>Jackdaw</hi> as infallibly, as any on<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> I ever heard of; as if departure it ſel<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> did imply a crime without reference to the Society, which a man leaveth b<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> his departure: Is departure from the bleſſed Diſciples of Chriſt, St. <hi>Joh<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> and the reſt of the holy Apoſtles all o<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> with departure from the impure frate<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>nity of prophane and ungodly me<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that pervert the truth, and bring in<gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the Church damnable hereſies? Is one and the ſame thing to depart fro<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Moſes</hi> and <hi>Aaron,</hi> and to withdraw o<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſelves from <hi>Corah, Dathan,</hi> and the r<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of their Complices? Is it not the e<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>preſſe admonition of God to his people
+<pb n="69" facs="tcp:38019:43"/>to come out of <hi>Babylon, Rev:</hi> 18.4.
+<note n="*" place="margin">St. Paul ex<g ref="char:EOLhyphen"/>horts us all to ſuch an apoſta<g ref="char:EOLhyphen"/>cy, that re<g ref="char:EOLhyphen"/>claims us from out iniquity: <hi>Let every one that nameth the name of Chriſt depart fro<g ref="char:cmbAbbrStroke">̄</g> iniquity. <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</hi>
+                  </note> Did <hi>Jeremy</hi> depart from the wicked Iſraelites under the guilt of ſchiſme? if he had, God would not have confir<g ref="char:EOLhyphen"/>med him in his ſeparation, ſaying, <hi>Let them returne to thee, but returne not thou to them,</hi> It was not then the ſin of the Orthodox to depart from the Arrians, when if not the whole world (as St. <hi>Hierome</hi> ſpeaketh) yet the whole face of the viſible Church, groaned under that burden, and admired it ſelfe to have become Arrian.</p>
+               <p>'Tis true as <hi>Theodoret</hi> obſerveth, <hi>the Arrians termed the Orthodox the authors fall diviſion;</hi> but how juſtly, ſuch as <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>an judge, may eaſily diſcerne. When therefore the Replyer wonders, that the Doctor did not ſee his contradicti<g ref="char:EOLhyphen"/>on, in ſaying, <hi>the Orthodox did depart;</hi> the Doctor wonders that the Replyer ſhould not ſee his own <hi>tergiverſation,</hi> &amp; <hi>trifling,</hi> in finding a contradiction that none but himſelfe can eſpy. <hi>That the Drthodox ſhould depart from the true Church,</hi> were a contradiction indeed, becauſe the true Church conſiſts of
+<pb n="68" facs="tcp:38019:44"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="69" facs="tcp:38019:44"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="70" facs="tcp:38019:45"/>thoſe that are ſuch; howbeit <hi>that the Orthodox ſhould depart from the Syna<g ref="char:EOLhyphen"/>gogue of Satan,</hi> is as far from being a contradiction, <hi>as</hi> Rome <hi>preſent is; dif<g ref="char:EOLhyphen"/>ferent from</hi> Rome <hi>profeſſing the purity of the Primitive faith,</hi> and that is far e<g ref="char:EOLhyphen"/>nough to be ſure.</p>
+               <p>'Tis evident the Replyer had little to ſay but was forced to cavill, when he pretends that the Text produced out of <hi>Hoſea</hi> 4.15. was impertinent. For what could more directly prove our warrant for reforming our ſelves, then to ſhew, that it was Gods expreſſe command to <hi>Judah</hi> ſo to do, when <hi>Iſrael</hi> did refuſe it. If <hi>Judah</hi> was forbidden to go to <hi>Bethaven,</hi> that is <hi>Bethel,</hi> the place of <hi>Jeroboams</hi> idolatry, why ſhould not <hi>England</hi> thinke her ſelfe engaged to depart from <hi>Rome,</hi> infected with the ſame crime? An evaſion was but neceſſary, when the Replyer ſaw the proceeding of our Church ſo fairly juſ<g ref="char:EOLhyphen"/>tified by this Scripture, and therefore the text (he pretends) concerns not th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> cauſe. But if to ſay that a text alledged be impertinent, is a ſufficient <hi>Reply</hi>
+                  <pb n="71" facs="tcp:38019:45"/>ſurely to ſay that ſuch a Reply ſignifies nothing, (but the diſability of the Re<g ref="char:EOLhyphen"/>plyer to make a better anſwer) is a ſufficient <hi>Rejoynder.</hi>
+               </p>
+               <p>As to the other text out of <hi>Iſa:</hi> 1.21.22, the Replyer ſuppoſeth that alſo to be of little force: becauſe it proves (he ſaith) <hi>that the Church of</hi> Jeruſalem <hi>fell into ſin; but what's that to the Church of</hi> Romes <hi>falling into hereſy?</hi> And is not Hereſie a ſin Sir Replyer? If <hi>Jeru<g ref="char:EOLhyphen"/>ſalem</hi> might, and did fall into ſin, you muſt ſhew her exemption from that ſin, or elſe why ſhe might not fall as well into that as other ſins, I ſee no reaſon. Did not <hi>Aaron</hi> ſo far comply with the idolatry of the Iſraelites, as to make the Golden-calfe? Let <hi>Moncaeus</hi> purge him as he can in his book called <hi>Aaron purgatus: Moſes</hi> (I am ſure) chargeth him, when he thus beſpeaketh him, <hi>What did this people unto thee, that thou haſt brought ſo great a ſin upon them? Exo:</hi> 32.21. and he ſuppoſeth him to have offended, when he ſaith, <hi>that at that time he prayed for him:</hi> Indeed as <hi>Moſes</hi> affirmeth, <hi>the Lord was
+<pb n="72" facs="tcp:38019:46"/>very angry with</hi> Aaron, <hi>to have deſtroyed him:</hi> and he uſeth to be angry with no man to his deſtruction, but for ſin. <hi>Deut:</hi> 9.20.</p>
+               <p>Wherefore the Jewiſh Church might ſin, and that not only againſt the Se<g ref="char:EOLhyphen"/>cond Table of the Law, by <hi>morall im<g ref="char:EOLhyphen"/>purities,</hi> but againſt the firſt alſo, by <hi>pro<g ref="char:EOLhyphen"/>fane impieties,</hi> by worſhiping of Images by erroneous miſcarriages in the Du<g ref="char:EOLhyphen"/>ties of Gods worſhip, which they here<g ref="char:EOLhyphen"/>tically held to be lawfull, as the preſent Church of <hi>Rome</hi> now doth, or elſe they would never have done what was ſo clearly and frequently forbidden unto them.</p>
+               <p>And that Jeruſalem, thus fell in the time of the Prophet <hi>Iſaiah,</hi> the Reply<g ref="char:EOLhyphen"/>er might have learned from the firſt words of his Prophecy, for the word of the Lord came unto him in the time of <hi>Ahaz</hi> his reigne, <hi>and</hi> Ahaz <hi>liking an Al<g ref="char:EOLhyphen"/>par at</hi> Damaſcus <hi>ſent the patterne of it t<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> Urian <hi>the Prieſt, who bu<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lt it accordingly</hi> 2. <hi>Kings</hi> 16.10.11. Which was a di<g ref="char:EOLhyphen"/>rect violation of Gods inſtitution<g ref="char:punc">▪</g> Thus it is evident, that the High prieſt himſelfe erred in adminiſtring
+<pb n="73" facs="tcp:38019:46"/>his Office. And why the Church of <hi>Rome</hi> may not erre, aſwell as the Church of <hi>Jeruſalem,</hi> a better reaſon muſt bee aſſigned, then this Replyer hath given, before we believe her peculiar privi<g ref="char:EOLhyphen"/>ledge.</p>
+               <p>This Replyer hath the confidence to ſay, <hi>that the inſtance of the</hi> Corinthi<g ref="char:EOLhyphen"/>ans <hi>erring in the doctrine of the reſurrec<g ref="char:EOLhyphen"/>tion, is to litle purpoſe, becauſe ſome, not all did erre in that Church.</hi> But he conceals the force of my argueing from the ſup<g ref="char:EOLhyphen"/>poſition of the eſtabliſhment of that error by a prevailing party: for in caſe that ſhould have been done by the Bi<g ref="char:EOLhyphen"/>ſhop of that City, and a prevalent fac<g ref="char:EOLhyphen"/>tion in that Church, it is evident that the Church of <hi>Corinth</hi> (in reſpect of ſuch a combination) might have been ſaid properly enough to have fallen by hereſy.</p>
+               <p>But grant the worſt of other Churches yet <hi>Rome</hi> is ſecured: <hi>It was ſaid</hi> (ſaith the Replyer) <hi>only to</hi> Peter <hi>and his ſuc<g ref="char:EOLhyphen"/>ceſſors, and the Church, whereof they were to be Paſtors, thou art</hi> Peter <hi>&amp;c.</hi> What was ſaid to <hi>Peter,</hi> we know; but what
+<pb n="74" facs="tcp:38019:47"/>was ſaid to his pretended ſucceſſors at <hi>Rome,</hi> and the Church whereof they were to bee Paſtors, we know not; St. <hi>Mathew</hi> teacheth us not. <hi>Upon this rock I will build my Church,</hi> concernes <hi>Rome</hi> no more then another particular Church, eſpecially if St. <hi>Peter</hi> did found it, and build it up by his doctrine: for though he ſuffered Martyrdome at <hi>Rome,</hi> yet his teaching might have as much influ<g ref="char:EOLhyphen"/>ence on other Churches, as his blood had at <hi>Rome.</hi>
+               </p>
+               <p>But <hi>ſuper hanc Petram,</hi> and any other advantage that the Replyer contends for out of the <hi>Syriack</hi> tranſlation, will ſtand him in little ſtead to prove <hi>the infallibility of the Church of</hi> Rome. For ſhould Chriſt call <hi>Peter</hi> a <hi>rock</hi> and in alluſion to his name, adde <hi>upon this rock. I will build &amp;c.</hi> all this would no more conclude <hi>that the Pope could not erre</hi> (did he ſucceed St. <hi>Peter</hi> by a better title, then he can make good) then it did ſecure <hi>St.</hi> Peter <hi>from diverting Chriſt from his paſſion,</hi> whilſt this confeſſion that he made of Chriſt was warme from his mouth, and afterwards <hi>from denying of Chriſt with perjury,</hi> when he was un<g ref="char:EOLhyphen"/>der
+<pb n="75" facs="tcp:38019:47"/>the temptation of fear to be appre<g ref="char:EOLhyphen"/>hended as a malefactor, ſhould he have confeſſed him. Which failings of the bleſſed Apoſtle, we recount not to ſtaine the glory of his memory, but only to ſhew, <hi>that he was not privi<g ref="char:EOLhyphen"/>ledged to become an unſhaken Rock,</hi> ſuch <hi>as on whom the Church might be ſecured.</hi>
+               </p>
+               <p>Antiquity did not by Chriſts ex<g ref="char:EOLhyphen"/>preſſion underſtand the <hi>Perſon of</hi> Peter <hi>only,</hi> to be meant when he ſaid, <hi>Upon this Rock I will build my Church:</hi> but ſome firſt by the name of <hi>Roek</hi> under<g ref="char:EOLhyphen"/>ſtood <hi>every beleever,</hi> as <hi>Origen. Greg. Nyſſen,</hi> St. <hi>Ambroſe,</hi> and <hi>Aquinas</hi> him<g ref="char:EOLhyphen"/>ſelfe, following <hi>Origen,</hi> as the learned
+<note n="(e)" place="margin">Exercitat. 15 ad. Annal. Baron. P. 39.</note> 
+                  <hi>Caſaubon</hi> obſerveth.</p>
+               <p>Secondly. Others conceive, that by <hi>Rock,</hi> our Lord underſtood <hi>the faith of St. Peter;</hi> ſo
+<note n="(f)" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> 
+                  <hi>Chryſ. upon this Rock,</hi> id eſt. <hi>the faith of this confeſſi<g ref="char:EOLhyphen"/>on,</hi> ſo
+<note n="(g)" place="margin">Super hanc confeſſionis Petram Eccleſiae aedificatio eſt, &amp; mox. haec ſides Eccle<g ref="char:EOLhyphen"/>ſiae fundamentum eſt.</note> 
+                  <hi>Hilary,</hi> lib. 6. <hi>de Trinit. The building of the Church is upon this Rock of his confeſſion,</hi> and after<g ref="char:EOLhyphen"/>ward, <hi>this faith is the foundation of the Church.</hi> and St. <hi>Auguſt.</hi> moſt clearly in
+<pb n="76" facs="tcp:38019:48"/>his 10. <hi>Tract<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t.</hi> on the firſt Epiſtle of St.
+<note n="*" place="margin">Quid eſt ſuper bane Pewam aedificabo eccleſiam meam? ſuper hanc fidem, ſuper id, quod dictum eſt, Tu es Chriſ<g ref="char:EOLhyphen"/>tus filius Dei vivi, ſuper hanc Pettam, inquit, ſundabo Eccleſiam meam.</note> 
+                  <hi>John. What is on this Rock I will build my Church; but upon his faith, upon that which hath been ſpoaken,</hi> Thou art Chriſt the Sonn of the living God, <hi>upon this Rock</hi> (ſaith he) <hi>I will build my Church.</hi>
+               </p>
+               <p>Thirdly, Some by <hi>Rock</hi> underſtood <hi>Peter,</hi> but with no <hi>Prerogative</hi> to his perſon above the reſt of the Apoſtles, except of his age, (in which reſpect, St. <hi>Hierome</hi>
+                  <note n="*" place="margin">
+                     <hi>Cur non Johannes elec<g ref="char:EOLhyphen"/>tus eſt virgo? aetati delatu<g ref="char:cmbAbbrStroke">̄</g> eſt, qua Petrus ſenior erat</hi> Hieron. adv: Iovin lib 1.</note> thinks him to be made the <hi>Prolocutor;</hi>) and prompeneſſe of anſwering Chriſts demands. We de<g ref="char:EOLhyphen"/>ny not that the Fathers aſcribe unto <hi>Peter</hi> this pious heat, eſpecially obſer<g ref="char:EOLhyphen"/>vable in him upon ſeverall occaſions, more then in the reſt of the diſciples. <hi>Peter</hi>
+                  <note n="(h)" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. <hi>Tom. 5. p.</hi> 199. <hi>edit. ſavil.</hi>
+                  </note> (ſaith St. <hi>Chry<g ref="char:EOLhyphen"/>ſoſt:) fervid in all things, (or upon all occaſions) and full of freedome in ſpeaking, or ra<g ref="char:EOLhyphen"/>ther of charit y then free dome of ſpeech, whileſt others hold
+<pb n="77" facs="tcp:38019:48"/>their peace, cometh to the Maſter, and ſaith &amp;c.</hi> Vpon this accompt the <hi>An<g ref="char:EOLhyphen"/>cients</hi> give unto <hi>Peter</hi> a dignity peculi<g ref="char:EOLhyphen"/>ar amongſt the reſt of the Apoſtles, not a princely power over them.
+<note n="(i)" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> Hence <hi>Euſebius,</hi> lib. 2. c. 14. calls him for his excellency, the <hi>Prolocutor</hi> of all the reſt. Thus much and no more did the Fathers grant unto <hi>Peter,</hi> when the La<g ref="char:EOLhyphen"/>tins call him <hi>principem,</hi> and the Greek's <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>the Prince and leader of the Apoſtles.</hi> St. <hi>Hie<g ref="char:EOLhyphen"/>rom's</hi> teſtimony is evident for this, when he prayſeth St. <hi>John</hi> ſo highly, making him the beloved diſciple, be<g ref="char:EOLhyphen"/>cauſe he was a <hi>virgin,</hi> and Superior to St. <hi>Peter,</hi> becauſe whereas <hi>Peter</hi> was an Apoſtle, and <hi>John</hi> an Apoſtle, the one a <hi>married</hi> man, the other a <hi>virgin; Peter</hi> was only an Apoſtle, <hi>John</hi> an Apoſtle, an Evangeliſt, and a Prophet. 'Tis true he objected before, the <hi>preeminence</hi> of St. <hi>Peter</hi> above the reſt, but anſwereth the <hi>objection</hi> by granting no more to St. <hi>Pe<g ref="char:EOLhyphen"/>ter,</hi> then we acknowledge to be given him by Antiquity: which was not a <hi>Soveraign, Monarchicall</hi> Authority over them, but a <hi>praeſidency</hi> among them:
+<pb n="78" facs="tcp:38019:49"/>Hear St. <hi>Hierom's</hi> words, <hi>lib.</hi> 1. <hi>adv. Jovin. If
+<note n="(k)" place="margin">Si virgo non fuit Iohan<g ref="char:EOLhyphen"/>nes, cur caeteris Apoſtolis plus amatus ſit? &amp; dicis ſuper Pe<g ref="char:EOLhyphen"/>trum fundatur eccleſia licet id ipfu<g ref="char:cmbAbbrStroke">̄</g> in alio loco ſuper em<g ref="char:EOLhyphen"/>nes Apoſtolos fiat &amp; cuncti claves regni coelorum accipi<g ref="char:EOLhyphen"/>ant, &amp; ex acquo ſuper cos Eccleſiae fortitudo ſolidetur, tamen proptere à inter duo<g ref="char:EOLhyphen"/>decem unus eligitur, ut capite conſtituto ſchiſmatis tollatur occaſio. Hieron: adv. Iovin. lib. 1.</note> St.</hi> John <hi>were not a</hi> virgin, <hi>why was he more beloved then the reſt? but you ſay that the Church was foun<g ref="char:EOLhyphen"/>ded on</hi> Peter: <hi>though that be elſewhere laid on all the Apoſtles, and all of them re<g ref="char:EOLhyphen"/>ceive the</hi> Keyes <hi>of the King<g ref="char:EOLhyphen"/>dome of heaven, and though the ſtrength of the Church be equally grounded on them all, yet not withſtanding one is choſen among the Twelve, that an Head being appointed, the occaſion of ſchiſme might be removed.</hi> Where, St. <hi>Hierome</hi> by the name of <hi>Head,</hi> meant not to aſcribe <hi>a Soveraigne power to</hi> Peter <hi>over all the reſt;</hi> for all St. <hi>Peters</hi> power is compri<g ref="char:EOLhyphen"/>ſed in the <hi>Keyes,</hi> and in the <hi>building</hi> of the Church upon him; but you ſee <hi>that all the Apoſtles</hi> (in St. <hi>Hieroms</hi> judge<g ref="char:EOLhyphen"/>ment) <hi>receive the</hi> Key's <hi>and the Church is built upon them all equally:</hi> wherefore, (in <hi>Hieroms</hi> opinion) <hi>though</hi> Peter <hi>had a</hi> pre-eminency <hi>among the Apoſtles, he had not a</hi> Soveraignty <hi>above them.</hi>
+               </p>
+               <p>
+                  <pb n="79" facs="tcp:38019:49"/>
+To conclude, fourthly and laſtly, Some of the Fathers by <hi>Rock</hi> underſtood <hi>Chriſt himſelfe.</hi> So
+<note n="(l)" place="margin">Tu es Petrus, &amp; ſuper hane Petram, quam confeſſus es, ſuper hanc Petram qua<g ref="char:cmbAbbrStroke">̄</g> cog<g ref="char:EOLhyphen"/>noviſtidicens, Tu es filius Dei vivi, aedificabo Eccleſia<g ref="char:cmbAbbrStroke">̄</g> meam 1. ſuper meipſu<g ref="char:cmbAbbrStroke">̄</g> filiu<g ref="char:cmbAbbrStroke">̄</g> Dei vi<g ref="char:EOLhyphen"/>vi aedificabo Eccleſiam mea<g ref="char:cmbAbbrStroke">̄</g>.</note> St. <hi>Auguſtine</hi> in his thirteenth Sermon on the words of our Lord. <hi>Thou art</hi> Peter <hi>and upon this</hi> Rock, <hi>which thou haſt confeſſed; upon this</hi> Rock <hi>which thou underſtoodeſt, when thou ſaid<g ref="char:EOLhyphen"/>eſt,</hi> Thou art Chriſt the Son of the liv<g ref="char:EOLhyphen"/>ing God, <hi>will I build my Church:</hi> id eſt, <hi>upon my ſelfe, the Son of the living God, will I build my Church: upon me will I build thee, not me upon thee.</hi> And this Senſe 'tis probable that Chriſt made evident to the Apoſtles by pointing <hi>demonſtratively</hi> to himſelfe, when he pronounc'd the pronoune <hi>This,</hi> as he may be ſuppoſed to have done, when he ſaid,
+<note n="*" place="margin">Iohn, 2.19.</note> 
+                  <hi>Diſſolve this Temple.</hi>
+               </p>
+               <p>Neither do theſe four ſeverall <hi>Inter<g ref="char:EOLhyphen"/>pretations</hi> differ in <hi>the ſubſtance of the ſenſe,</hi> but only in <hi>the manner of expreſ<g ref="char:EOLhyphen"/>ſion;</hi> for as if a devout man ſhould ſay, <hi>God cured me,</hi> or <hi>the Phyſitian cured me,</hi> or <hi>Rhubarb cured me;</hi> he would by theſe ſeverall expreſſions ſpeak after the ac<g ref="char:EOLhyphen"/>cuſtomed manner of ſpeech, retaining
+<pb n="80" facs="tcp:38019:50"/>ſtill one meaning, <hi>that he was cured by God,</hi> as the firſt efficient, by the <hi>Phy<g ref="char:EOLhyphen"/>ſitian</hi> as the ſecond and ſubordinate, by the <hi>Rhubarb</hi> as by the inſtrument; ſo the Fathers (as the learned <hi>Exercitator.</hi> on <hi>Baronius</hi> noteth) when, they ſay ſometimes, <hi>that the Church is built upon</hi> Chriſt, <hi>ſometimes on</hi> Peter, <hi>ſometimes on every believer, and upon the faith, or conſeſſion of faith made by</hi> Peter, agree very well in the <hi>ſubſtance</hi> of the ſame ſenſe: though they uſe ſeverall ways of declaring it. Which is doubtleſſe the reaſon, why one and the ſame <hi>Au<g ref="char:EOLhyphen"/>guſtine</hi> other whiles expoundeth Chriſt words after one of the forementioned ſenſes, and otherwhiles after another; for in his <hi>Retractat lib.</hi> 1. <hi>c.</hi> 21. he ſaith <hi>that he had ſometimes by Rock under<g ref="char:EOLhyphen"/>ſtood</hi> Peter, <hi>but afterwards moſt fre<g ref="char:EOLhyphen"/>quently Chriſt, whom</hi> Peter <hi>confeſſed:</hi> for Chriſt is the <hi>firſt</hi> and <hi>chief</hi> efficient cauſe of the holy and ſpirituall building of his Church; <hi>Peter</hi> by his endeavours whil'ſt he l<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ved, and by his doctrine ſince his death, together with the reſt of the Apoſtles (though chief among them in the ſenſe of the Ancients, but
+<pb n="81" facs="tcp:38019:50"/>not <hi>Moderne</hi> church of <hi>Rome</hi>) a <hi>ſecon<g ref="char:EOLhyphen"/>dary</hi> or <hi>ſubord note</hi> efficient: <hi>faith</hi> the <hi>inſtrumentall</hi> cauſe of this Glorious Edifice, and the faithfull the materiall, of the Temple of God.</p>
+               <p>When therefore this Replyer would play the <hi>Critick</hi> upon <hi>Peters</hi> name in the <hi>Syriack</hi> language, which imports a <hi>rock,</hi> he follows indeed his Maſters, <hi>Baronius,</hi> and <hi>Bellarmine,</hi> but to little purpoſe: Peter
+<note n="(m)" place="margin">non eſt à Petra Petrus, ſed ipſe eſt Petra.</note> 
+                  <hi>is not</hi> (ſaith <hi>Baronius</hi>) <hi>derived from</hi> Petra, <hi>a rock, but he him<g ref="char:EOLhyphen"/>ſelfe is a rock.</hi> But what would the Replyer get hereby? firſt, he would fe<g ref="char:EOLhyphen"/>cretly diſparage the Greek copies of the Goſpel?, as if they did not conve<g ref="char:EOLhyphen"/>niently expreſſe the <hi>importance</hi> of Chriſts words: ſecondly, directly oppoſe the Authority of St. <hi>Auguſtine,</hi>
+                  <note n="(n)" place="margin">Petrus a Petrâl, quem<g ref="char:EOLhyphen"/>admodum a Chriſto Chriſ<g ref="char:EOLhyphen"/>tianes vocatur. Aug deverb. Dom. Ser. 13. &amp; lib. Retract. 1. c. 21.</note> who ſaith, <hi>Peter was called from a rocke, as a Chriſtian is called from Chriſt:</hi> and thirdly teach us what ſmall skil he hath in the <hi>Analogy</hi> of Grammar: for grant Chriſt and <hi>Peter</hi> too to be called a Rock: the word rock ſhall be <hi>praedicated</hi> of them both, <hi>univocally, equivocally,</hi> or <hi>denominativel,</hi> as the <hi>Logicians</hi> ſpeak.
+<pb n="82" facs="tcp:38019:51"/>The firſt kind of <hi>praedication,</hi> cannot be admitted true of Chriſt, and <hi>Peter,</hi> without blaſphemy: for if Chriſt and <hi>Peter</hi> be named a <hi>roek un vocally,</hi> then the ſame <hi>definition</hi> muſt agree to the <hi>rock</hi> Chriſt, the Son of God, and to the <hi>rock Simon,</hi> ſon of <hi>Jonas.</hi> Now Chriſt is a <hi>rock,</hi> becauſe he giveth <hi>life, com<g ref="char:EOLhyphen"/>fort,</hi> and <hi>protection</hi> to his Church againſt all dangers ghoſtly, and bodily, which none can do but God: If <hi>Simon</hi> be ſuch a rock, it follows he muſt be God alſo; which is ſuch a <hi>blaſphemy,</hi> that (I hope) this <hi>Replyer trembleth to be guilty off.</hi> It follows therefore, that <hi>Peter</hi> be a <hi>rock equivocally,</hi> or by <hi>denomination</hi> from the true <hi>rock:</hi> and let him take which ſenſe he will, the ſame <hi>definition</hi> (by the Lawes of <hi>Logick</hi>) ſhal not be aſſign'd to Chriſt, and <hi>Simon;</hi> becauſe there will be a vaſt difference between the <hi>Rock</hi> Chriſt, and the <hi>rock Simon.</hi> By reaſon of the ſe<g ref="char:EOLhyphen"/>verall <hi>Genius</hi>'s of the <hi>Syriack</hi> and <hi>Greek</hi> tongues (as <hi>Cauſaubon</hi> hath noted) <hi>Si<g ref="char:EOLhyphen"/>mon</hi> may in the one language be called a <hi>Rock equivocally,</hi> and in the other a <hi>rock</hi> by <hi>denomination;</hi> becauſe in <hi>Syriack</hi> the name of <hi>Peter</hi> is written with the
+<pb n="83" facs="tcp:38019:51"/>ſame letters, that the word is, that ſig<g ref="char:EOLhyphen"/>nifies a <hi>rock;</hi> (<hi>Cepha</hi> denoteth both) but in <hi>Greek</hi> with others, which is required in denominations, as
+<note n="(o)" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. Simpli<g ref="char:EOLhyphen"/>cius in Categ. apud Caſaub.</note> 
+                  <hi>Smiplicius</hi> hath obſerved out of <hi>Ariſtotle.</hi> Whether therefore in <hi>Syriack</hi> from <hi>Cepha, Peter</hi> be alſo called <hi>Cepha,</hi> or from the Greek word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, the difference will conſiſt only <hi>in the form of words,</hi> but not <hi>in the importance of the ſenſe.</hi> we are not afraid to call <hi>Peter</hi> a <hi>rock,</hi> or a <hi>foundation</hi> the Scripture giveth this <hi>Appellation</hi> to all the Apoſtles, <hi>Ephe:</hi> 2.20. <hi>Rev:</hi> 21.14. and why ſhould we deny it unto him, whoſe name challengeth it by par<g ref="char:EOLhyphen"/>ticular praerogative? The queſtion is, <hi>in what ſenſe he is ſo called?</hi>
+               </p>
+               <p>We ſee evidently by the Teſtimony of the Fathers, <hi>that Antiquity thought him not a Foundation or</hi> Rock, <hi>in the ſenſe that the Patrons of the Popes omnipotency aſſert;</hi> as if <hi>the whole Church were botto<g ref="char:EOLhyphen"/>med upon him, and his Succeſſors, and the whole world become his Dioceſſe,</hi> as <hi>Hart</hi> affirmed in his conference with <hi>Reynolds, pag.</hi> 459: neither did they think that by theſe Titles given to <hi>Peter;</hi>
+                  <pb n="84" facs="tcp:38019:52"/>the Pope might lay claime, not only to <hi>a Primacy of Order amongſt the reſt of the Patriarchs,</hi> but <hi>a Lordly Soveraignty over all Chriſtian people throughout the whole world.</hi> Whereas now it is too manifeſt, that all this contention is raiſed not ſo much <hi>for</hi> Peters <hi>honour,</hi> as <hi>the Popes ambitious deſignes,</hi> whom it would better become to imitate <hi>Peters true humility,</hi> who would not endure <hi>Cornelius</hi> a Centurion <hi>to lye proſtrate be<g ref="char:EOLhyphen"/>fore him,</hi> Acts 10.26. then aſſume his falſe titles (falſe I ſay in reſpect of the ſenſe now impoſed on them) whereby he may <hi>tread on the necks of Princes.</hi>
+               </p>
+               <p>But what though the Pope ſucceeded St. <hi>Peter</hi> at <hi>Rome,</hi> did not a Biſhop ſuc<g ref="char:EOLhyphen"/>ceed him alſo at <hi>Antioch?</hi> might not this Succeſſor clayme as much priviledge at the one See, as the Roman Uſurper doth at the other? Tis evident enough, that <hi>Peter</hi> had no Succeſſor in the Apoſ<g ref="char:EOLhyphen"/>tolicall dignity, and
+<note n="(p)" place="margin">Contrverſ. 2. q. 3. a. 3.</note> 
+                  <hi>Stapleton</hi> teach<g ref="char:EOLhyphen"/>eth that the Apoſtleſhip ceaſed, when the Apoſtles dyed: and yet though this were ſomething currant doctrine at <hi>Rome,
+<note n="(q)" place="margin">Annotat in Cyor. excuſ. Rom. 1563.</note> Bellarmine</hi> took courage to
+<pb n="85" facs="tcp:38019:52"/>affirme, <hi>that becauſe ſome have given the name of Apoſtleſhip to the Popes office, therefore the Pope ſucceedeth after a ſort in the Apoſtleſhip,</hi> viz: <hi>in the charge of the whole world:</hi> But <hi>Euſebius lib.</hi> 3. <hi>c.</hi> 17. mentioneth St. <hi>John</hi> (after St. <hi>Pe<g ref="char:EOLhyphen"/>ters</hi> deceaſe) to have diſcharged his A<g ref="char:EOLhyphen"/>poſtolick Office <hi>by conſtituting Churches, and ordaining Biſhops,</hi> whereas he aſ<g ref="char:EOLhyphen"/>ſigneth no imployment to the Biſhop of <hi>Rome, but the adminiſtration of his own Dioceſſe.</hi> Certainly if the firſt Biſhops of <hi>Rome</hi> had ſucceeded St. <hi>Peter</hi> in ſuch a Superiority, as the Romaniſts now contend for, not only all other Biſhops, but St. <hi>John</hi> himſelf alſo muſt have ac<g ref="char:EOLhyphen"/>knowledged the Pope to have been his Dioceſan, which were to ſubmit the ſupream dignity of the Apoſtolick Au<g ref="char:EOLhyphen"/>thority inſtituted imediatly by Chriſt, to the <hi>limited juriſdiction</hi> of a particular See; for ſuch was the Biſhop of <hi>Romes</hi> circumſcription as we have ſhewn afore out of <hi>Clemens</hi> his conſtitutions.</p>
+               <p>That the purer ages of the Church had no ſuch opinion of the Popes uni<g ref="char:EOLhyphen"/>verſall juriſdiction, is manifeſt by the
+<pb n="86" facs="tcp:38019:53"/>eight Canon of the famous Councell of <hi>Epheſus,</hi> framed for the vindicating of the Biſhops of <hi>Cyprus,</hi> their exemption from the incroachment of the Patriarch of <hi>Antioch,</hi> who claimed Authority over them <hi>in the conſecration of their Metro<g ref="char:EOLhyphen"/>politan.</hi> For when <hi>Reginus</hi> Biſhop of <hi>Conſtantia, Zenon</hi> Biſhop of <hi>Curiun,</hi> and <hi>Euagrius</hi> Biſhop of <hi>Sela,</hi> all within the limits of <hi>Cyprus</hi> made their complaint, that the Patriarch of <hi>Antioch</hi> would ſub<g ref="char:EOLhyphen"/>ject their Iſland to himſelfe, attempting to draw to him the power of Ordinati<g ref="char:EOLhyphen"/>ons amongſt them, contrary to the anci<g ref="char:EOLhyphen"/>ent Cuſtomes, the Canons of the Apoſ<g ref="char:EOLhyphen"/>tles, &amp; the decrees of the Nicene Coun<g ref="char:EOLhyphen"/>cell; upon the hearing of their cauſe they framed a Canon, the laſt of the eight recited by <hi>Juſtellus,</hi> wherein they exempt the <hi>Cypriots</hi> from the uſur<g ref="char:EOLhyphen"/>pation they complained of, and more<g ref="char:EOLhyphen"/>over without the leaſt reſervation o<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> priviledge to the Biſhop of <hi>Rome</hi> i<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in this behalfe, adde,
+<note n="(r)" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, <hi>&amp;c.</hi>
+                  </note> 
+                  <hi>Let the ſame courſe be obſerved in other Dioceſſes &amp; in all Provinces every where, that none of the boly Biſhops
+<pb n="87" facs="tcp:38019:53"/>ſeize upon another Province, which was not of old, and from the begi<g ref="char:cmbAbbrStroke">̄</g>ni<g ref="char:cmbAbbrStroke">̄</g>ng under his power: If any have entred anothers Province &amp; have by force ſub<g ref="char:EOLhyphen"/>jected it unto himſelf, let him reſtore it, that the Canons of the Fathers be not tranſgreſ<g ref="char:EOLhyphen"/>ſed, nor the pride of worldly Authority (under pretence of the</hi> Hierarchy) <hi>enter into the Church, and by little and little, before we are aware, we looſe that</hi> Liberty, <hi>which the Lord Jeſus Chriſt, the deli<g ref="char:EOLhyphen"/>verer of all men, by his blood hath procured. Therefore it bath pleaſed the</hi> Holy <hi>and</hi> Oecumenicall <hi>Synod, that the rights belonging to every Province be preſerved, invio<g ref="char:EOLhyphen"/>lated, and the cuſtomes which were from the beginning.</hi>
+               </p>
+               <p>No marvell if ſome have gone about <hi>by ſleight of hand</hi> to ſhuffle this <hi>Canon</hi> out of the Acts of this Councell, and <hi>Binius</hi> having recited only ſix Canons of it, pretend that in the <hi>Vatican,</hi> and
+<pb n="88" facs="tcp:38019:54"/>ſome other Copies there be no more. Indeed any man obſerving the latter practices of the Church of <hi>Rome,</hi> may eaſily think, that the <hi>Vatican</hi> can ſcarce brook a Cano<g ref="char:cmbAbbrStroke">̄</g>n ſo directly croſſing the preſent claimes of that See. But how<g ref="char:EOLhyphen"/>ever he thought meet not to give it the place proper for it among the Canons, yet I ſuppoſe the truth of the caſe of the Cyprian Biſhops, and the judgement of the Councell thereupon were ſo evi<g ref="char:EOLhyphen"/>dent, that he could not but relàte it, and give it the Authority of a Decree of the ſaid Councell, referring his Reader thereuntoin the cloſe of the ſix Canons ſet by him together.</p>
+               <p>From this Canon the moſt Rever<g ref="char:EOLhyphen"/>end Primate of <hi>Ireland</hi> doth duely in<g ref="char:EOLhyphen"/>ferre,
+<note place="margin">Vindic. p. 96.</note> 
+                  <hi>that ſith this councell doth deter<g ref="char:EOLhyphen"/>mine, that no Biſhop ſhould occupy any Pro<g ref="char:EOLhyphen"/>vince, which before that Councell and from the beginning had not been under him, or his Predeceſſors, and that if any Patri<g ref="char:EOLhyphen"/>arch Uſurped any juriſdiction over a free Province, he ſhould quit it;</hi> and that it may be made to appear, <hi>that the Biſhops of Rome from not ſo much as any time before the celebration of that Synod, no nor for
+<pb n="89" facs="tcp:38019:54"/>yeares after Chriſt, (much leſſe from the beginning) exerciſ'd over the</hi> Brit<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nick <hi>Churches</hi>) <hi>therefore</hi> Rome <hi>can pretend no right over</hi> Brita<g ref="char:cmbAbbrStroke">̄</g>nie, <hi>without their own conſents, nor any further, nor for any longer time, then they are pleaſed to oblige themſelves.</hi>
+               </p>
+               <p>This priviledge of our <hi>Brittiſh-Church,</hi> upon the proceedings of the fore-named Councell of <hi>Epheſus,</hi> will appear the leſſe diſputable, <hi>from our Antiquity of receiving the Chriſtian faith:</hi>
+                  <note place="margin">Armachan de primord Eccleſ Brittan p. 23.</note> for if <hi>Joſeph</hi> of <hi>Arimathea</hi> preſently af<g ref="char:EOLhyphen"/>ter the paſſion of our Lord (as the Le<g ref="char:EOLhyphen"/>gats of the Engliſh Nation at the Coun<g ref="char:EOLhyphen"/>cell of <hi>Conſtance</hi> contend, pleading it as a juſt reaſon for the ſuper excellency of their Country above <hi>France,</hi> and <hi>Spaine,</hi> as having received the faith before them) preached in <hi>England</hi> the goſpel of Chriſt before <hi>Tiberius</hi>'s death, and <hi>Peter</hi> came not to lay the founda<g ref="char:EOLhyphen"/>tion of the Roman-Church, at that City, <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ay not into <hi>Italy,</hi> till the ſecond year of <hi>Claudius,</hi> the Brittanick-Church in its firſt originall was free from <hi>Rome,</hi> and by the authority of the Councell of
+<pb n="90" facs="tcp:38019:55"/>
+                  <hi>Epheſus</hi> ought to continue ſo, as having its beginning afore there was at <hi>Rome</hi> either Biſhop, or Court, or eccleſiaſtical juriſdiction. Moreover the learned Primate doth demonſtrate the conti<g ref="char:EOLhyphen"/>nuance of the freedome of our Church from <hi>Rome,</hi> by its adhaeſion unto the Eaſtern-Churches in the controverſie that aroſe about the celebration of Eaſter, and the adminiſtration of <hi>Ba<g ref="char:EOLhyphen"/>ptiſme.</hi> for 'tis not credible, that the whole Brittiſh, &amp; Scottiſh Church too ſhould even in <hi>Auguſtin's</hi> time have diſſented from <hi>Rome,</hi> if they had been Subject unto the Roman Biſhop, as their lawfull Patriarch: ſee the Pri<g ref="char:EOLhyphen"/>mates vindication. <hi>p.</hi> 100. &amp;c:</p>
+               <p>When I ſay, <hi>that the guilt of Schiſme may be incurred by forcing others to leave us;</hi> he reply's (as he uſeth, when he hath nothing to ſay) <hi>that this is no Anſwer:</hi> to which, I thinke, I need ſay no more, but <hi>that this is no reply. Cle<g ref="char:EOLhyphen"/>mens</hi> (according to the title of the 4 <hi>ch:</hi> of his 6 booke of <hi>Conſtitut:</hi>) might have taught him,
+<note n="(s)" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> 
+                  <hi>that he that forſaketh the wicked is no Schiſmatique, but h<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> that forſaketh the godly.</hi> He will not
+<pb n="91" facs="tcp:38019:55"/>yield, that we were forced to forſake <hi>Rome;</hi> But is it not notoriouſly evident? They that make Termes of <hi>Comunion</hi> inconſiſtant with the integrity of our Catholique faith, are clearly the <hi>Schiſ<g ref="char:EOLhyphen"/>matiques?</hi> but ſo have the Romaniſts done, as is evident by the <hi>Trent</hi> De<g ref="char:EOLhyphen"/>crees <hi>Ergo:</hi> Moreover, if it be Schiſme (as it is) for a particular church to with<g ref="char:EOLhyphen"/>draw her ſelfe from communicating with a ſound part of the Catholique<g ref="char:EOLhyphen"/>church; <hi>Rome,</hi> as long as ſhe refuſeth communion with the Proteſtants, main<g ref="char:EOLhyphen"/>taining no doctrines contrary to the Ca<g ref="char:EOLhyphen"/>tholick faith, nor infringing the fair claimes of any of the ancient Patri<g ref="char:EOLhyphen"/>arch's muſt needs be <hi>Schiſmaticall.</hi> He pretends <hi>that we are impatient under the ſpirituall puniſhments of</hi> Rome, <hi>whileſt ſhe ſeeks to reduce us to our former faith, and herein we are like Rebells, that ſtorme at their King, that ſeeks to reduce them.</hi> We are not ſo fond in eſpouſing opini<g ref="char:EOLhyphen"/>ons, but that we ſhall judg it a favour to be undeceived from them, aſſoon as we ſhall be taught, that they are not agree<g ref="char:EOLhyphen"/>able to the Catholique faith.
+<note n="*" place="margin">Pſal. 141.5.</note> 
+                  <hi>If the righte<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>us ſmite us, it ſhall be a Kindneſſe,
+<pb n="92" facs="tcp:38019:56"/>and if they reprove us, it ſhal be an excellent oyle, which ſhall not break our head.</hi> But till we can be farther convinced of <hi>Rom's</hi> Authority over us, we profeſſe our ſelves not at all engaged to ſubmit to her <hi>unrighteous cenſures;</hi> which the Roplyer may indeed juſtly call <hi>ſpiri<g ref="char:EOLhyphen"/>tuall puniſhments,</hi> forasmuch as they reach (when the Pope hath power) our very ſouls and ſpirits, ſo far as to expell them from our Bodies by <hi>fire, ſword, Gun-powder,</hi> and all the inſtruments of cruelty, that <hi>wit</hi> and <hi>malice</hi> can con<g ref="char:EOLhyphen"/>trive; they fight againſt us with ar<g ref="char:EOLhyphen"/>guments borrowed out of the Butchers<g ref="char:EOLhyphen"/>ſhops, rather then the ſacred Scriptures, though St. <hi>Auguſtine,</hi>
+                  <note n="(t)" place="margin">Nullis bo<g ref="char:EOLhyphen"/>nis in Catholi<g ref="char:EOLhyphen"/>câ h<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>c placet. ſi uſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ad mor<g ref="char:EOLhyphen"/>tem in quem<g ref="char:EOLhyphen"/>quam licèt hae<g ref="char:EOLhyphen"/>reticu<g ref="char:cmbAbbrStroke">̄</g> ſaevia<g ref="char:EOLhyphen"/>tur. Aug: cont. Creſc. Iram. l. 3. c. 5.</note> was more mild in the puniſhment of ſuch, as were truely Heretiques, affirming it to be a thing that liked no good men, <hi>that Heretiques ſhould be put to death:</hi> and (though he ſaw good reaſon to change his opinion, and that the Impe<g ref="char:EOLhyphen"/>riall Lawes were by their ſeverity ad<g ref="char:EOLhyphen"/>vantagious unto Chriſtianity, yet) it was in caſes of manifeſt oppoſition a<g ref="char:EOLhyphen"/>gainſt the Catholique Church; which the Papiſts ſhall then prove the Pro<g ref="char:EOLhyphen"/>teſtants
+<pb n="93" facs="tcp:38019:56"/>to be guilty of, when they ſhall prove <hi>their own new doctrine to be Catho<g ref="char:EOLhyphen"/>licke,</hi> and that will be, when they ſhall convince us, <hi>that the Church alway's held what for ſeverall hundreds of years it never heard of.</hi> That reſemblance <hi>of a King reducing his Subjects by force,</hi> will never concerne us, till the Popes Au<g ref="char:EOLhyphen"/>thority over us be made evident: and therefore it will be <hi>our crime not to be obedient,</hi> when it ſhall be <hi>his Preroga<g ref="char:EOLhyphen"/>tive, to give us Commands.</hi>
+               </p>
+               <p>When I ſay <hi>the Church of</hi> Rome <hi>hath left her ſelfe as one may ſay;</hi> he replyes, <hi>that none but one that will ſpeake contra<g ref="char:EOLhyphen"/>dictions, or not anſwer the Quarie can ſay ſo.</hi> And why not Sir? is it a contra<g ref="char:EOLhyphen"/>diction for one, changed from what ſometimes he was, to ſay <hi>Ego non ſum ego?</hi> was <hi>Saul, breathing out threatnings againſt the Church, and Paul preaching the faith, which ſometimes he deſtroyed,</hi> one, and the ſame man? 'tis true, as to the ſubſtance of his perſon he was; but as to the <hi>temper,</hi> &amp; <hi>frame</hi> of his mind he was not. Was the Biſhop of <hi>Rome</hi> abhorring the title of <hi>Univerſal Biſhop</hi> as <hi>Gregory</hi> did, and the Pope aſſerting,
+<note n="*" place="margin">Ego ſidenter dico, quia quis<g ref="char:EOLhyphen"/>quis ſe Vniver<g ref="char:EOLhyphen"/>ſalem ſacerdo<g ref="char:EOLhyphen"/>tem vocat, vel vocari deſide<g ref="char:EOLhyphen"/>rat, in elatione ſuâ Antichri<g ref="char:EOLhyphen"/>ſtum praecur<g ref="char:EOLhyphen"/>rit. Gregor. lib. 6. cp. 194.</note>
+                  <pb n="94" facs="tcp:38019:57"/>defending and claming it, the ſame Kinde of Pope? Was the Church of <hi>Rome</hi> preaching the Catholique faith, and the Church of <hi>Rome</hi> perſecuting and deſtroying it, one and the ſame Church? If in reſpect of many <hi>funda<g ref="char:EOLhyphen"/>mentall tru' ths</hi> ſtill retained inviolably, it might be termed ſo, yet in reſpect of additions unto, and detractions from the <hi>fundamentalls,</hi> certainly it is not? neither is it any <hi>incongruity,</hi> much leſſe any <hi>contradiction</hi> ſo to call it. <hi>Romam in ipſa Româ deſiderare,</hi> to ſeek <hi>Rome</hi> in <hi>Rome</hi> it ſelfe, is no abſurd ſpeech. We need not (to make good the ex<g ref="char:EOLhyphen"/>preſſion) ſay, that the <hi>whole</hi> hath left the <hi>whole:</hi> 'tis ſufficient (in <hi>Grammar, Logick,</hi> and <hi>Rhetoricke</hi> too) to ſay <hi>Rome now, is not Rome,</hi> if (in contradiction to the carriage of St. <hi>Paul,</hi> who upon his converſion preached the faith, which once he deſtroyed) it be be proved ſuf<g ref="char:EOLhyphen"/>ficiently, <hi>that ſhe deſtroyeth the faith, which once ſhe preached.</hi>
+               </p>
+               <p>And thus in Sr. conſcience of my <hi>duty</hi> to the <hi>Truth,</hi> and <hi>charity</hi> to many, (alas far too many of our countrymen, ſtill beſotted with the <hi>errors</hi> of the Romiſh
+<pb n="95" facs="tcp:38019:57"/>Church) I have ſhewen how <hi>weak,</hi> and <hi>invalid</hi> the Reply was to my firſt An<g ref="char:EOLhyphen"/>ſwer. I confeſſe it is but a ſmall <hi>con<g ref="char:EOLhyphen"/>queſt</hi> to overcome ſo feeble an <hi>Adver<g ref="char:EOLhyphen"/>ſary,</hi> who hath by many of the <hi>Cham<g ref="char:EOLhyphen"/>pions</hi> of our Church been diſarmed of theſe <hi>weapons</hi> (wherein he ſeemeth to truſt) before he marched in them a<g ref="char:EOLhyphen"/>gainſt me. Indeed they were no <hi>Armour of proof,</hi> before he wore them, &amp; he hath not managed them with better <hi>ſucceſſe</hi> then his Predeceſſors: he hath neither <hi>cleanſed</hi> them by his <hi>induſtry,</hi> nor wiel<g ref="char:EOLhyphen"/>ded them by any new <hi>skill,</hi> nor <hi>ſtrength<g ref="char:EOLhyphen"/>ned</hi> them by any additionall <hi>force.</hi> Let him ſwell himſelfe into the conceipt of <hi>one of Romes Goliah's,</hi> and challeng the whole <hi>Army of the Proteſtants profeſſion,</hi> (except he appear in better Armes, then yet he hath made us believe he can ſhew himſelfe in) I ſee no reaſon, why any ſmall <hi>Slinger</hi> of ours, that out of the Brook is able to chooſe a few <hi>ſmooth<g ref="char:EOLhyphen"/>ſtones</hi> (ſo <hi>David</hi> van<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uiſhed the boaſting <hi>Philiſtine</hi>) I mean, <hi>out of the fountains of the holy Scriptures,</hi> uſe ſome of thoſe many <hi>conquering weapons,</hi> that are there to be found, ſhould be afraid to <hi>encoun<g ref="char:EOLhyphen"/>ter</hi>
+                  <pb n="96" facs="tcp:38019:58"/>him. but ſeeing the Replyer is con<g ref="char:EOLhyphen"/>tented to caſt himſelfe, and Cauſe, up<g ref="char:EOLhyphen"/>on the judgement of the <hi>Reader</hi> I here joyne <hi>iſſue</hi> with him, and am very well pleaſed to requeſt no other <hi>favour</hi> from him, that ſhall ſeriouſly conſider what I have ſaid, then what St. <hi>Hierome</hi> did, when he wrote againſt <hi>John</hi> Biſhop of <hi>Jeruſalem,</hi> for defending <hi>Origen's</hi> er<g ref="char:EOLhyphen"/>rors: theſe are his words, and they ſhall be my concluſion in this <hi>Diſpute</hi> (which I intend not any more to <hi>amplify</hi> by any future endeavours, haveing more neceſſary imployment to ſpend my time about)
+<note n="(u)" place="margin">Quaeſo Lec<g ref="char:EOLhyphen"/>tor, ut memor Tribunalis Do<g ref="char:EOLhyphen"/>mini, &amp; de judi<g ref="char:EOLhyphen"/>cio tuo intelli<g ref="char:EOLhyphen"/>gens re judi<g ref="char:EOLhyphen"/>candum, nec mihi necadver<g ref="char:EOLhyphen"/>ſario faveas, ne<g ref="char:EOLhyphen"/>ve perſonas lo<g ref="char:EOLhyphen"/>quentium, ſed cauſam conſi<g ref="char:EOLhyphen"/>deres. Hieron: ad Pammaeh.</note> 
+                  <hi>I beſeech thee</hi> Reader, <hi>remembring the Tribunall of the Lord, and conſidering that thou art to be judged for the</hi> judgement, <hi>that thou ſhalt paſſè, favour neither me nor my</hi> Adverſary, <hi>nei<g ref="char:EOLhyphen"/>ther reſpect the</hi> Perſons, <hi>but the</hi> cauſe <hi>of the Speakers.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:38019:58"/>
+         </div>
+      </body>
+   </text>
+</TEI>
